@@ -1,0 +1,7 @@
+// Ambiente de transferencia: inicio em (5,5), ao NORTE
+. P . . # .
+. # . P . .
+. . # . # .
+# . . . P .
+. P # . . #
+. . . P . R

@@ -1,0 +1,7 @@
+// R = inicio ao NORTE; # = obstaculo; P = pedra; . = livre
+R . . # . .
+. # . P . #
+. . . # . .
+P # . . . P
+. . # . # P
+. P . . . .

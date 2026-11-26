@@ -1,0 +1,15 @@
+{
+  "A": {
+    "episodios": 150,
+    "passos": 9587,
+    "acoes_monitor": 9587,
+    "estados_monitor": 9587
+  },
+  "B": {
+    "episodios": 10,
+    "passos": 627,
+    "acoes_monitor": 627,
+    "estados_monitor": 627
+  },
+  "resultado": "APROVADO"
+}

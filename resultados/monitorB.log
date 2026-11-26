@@ -1,0 +1,1275 @@
+PRONTO monitor
+tipo=INICIO episodio=1 passo=0 id=ingenuo_1
+tipo=ACAO episodio=1 passo=1 id=ingenuo_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=1 id=ingenuo_1 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=2 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=2 id=ingenuo_1 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=3 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=3 id=ingenuo_1 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=4 id=ingenuo_1 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=4 id=ingenuo_1 emocao=CALMA bemEstar=-0.0000 recompensa=0.0300 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=5 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=5 id=ingenuo_1 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=6 id=ingenuo_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=6 id=ingenuo_1 emocao=CALMA bemEstar=-0.1200 recompensa=-0.1100 {energia=98.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=7 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=7 id=ingenuo_1 emocao=CALMA bemEstar=-0.0300 recompensa=0.0900 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=8 id=ingenuo_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=8 id=ingenuo_1 emocao=CALMA bemEstar=-0.1400 recompensa=-0.1100 {energia=96.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=9 id=ingenuo_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=9 id=ingenuo_1 emocao=CALMA bemEstar=-0.2500 recompensa=-0.1100 {energia=95.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=10 id=ingenuo_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=10 id=ingenuo_1 emocao=CALMA bemEstar=-0.3600 recompensa=-0.1100 {energia=94.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=11 id=ingenuo_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=11 id=ingenuo_1 emocao=CALMA bemEstar=-0.4700 recompensa=-0.1100 {energia=93.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=12 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=12 id=ingenuo_1 emocao=ALEGRIA bemEstar=-0.1800 recompensa=0.2900 {energia=92.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=13 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=13 id=ingenuo_1 emocao=CALMA bemEstar=-0.0900 recompensa=0.0900 {energia=91.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=14 id=ingenuo_1 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=14 id=ingenuo_1 emocao=CALMA bemEstar=-0.0000 recompensa=0.0900 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=15 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=15 id=ingenuo_1 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=16 id=ingenuo_1 DIREITA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=16 id=ingenuo_1 emocao=MEDO bemEstar=-0.4050 recompensa=-0.3950 {energia=97.0, integridade=75.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=17 id=ingenuo_1 FRENTE moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=17 id=ingenuo_1 emocao=MEDO bemEstar=-0.8000 recompensa=-0.3950 {energia=95.0, integridade=50.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=18 id=ingenuo_1 TRAS moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=18 id=ingenuo_1 emocao=MEDO bemEstar=-1.1950 recompensa=-0.3950 {energia=93.0, integridade=25.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=19 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=19 id=ingenuo_1 emocao=MEDO bemEstar=-1.1750 recompensa=0.0200 {energia=92.0, integridade=27.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=20 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=20 id=ingenuo_1 emocao=MEDO bemEstar=-1.1550 recompensa=0.0200 {energia=91.0, integridade=29.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=21 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=21 id=ingenuo_1 emocao=MEDO bemEstar=-1.2350 recompensa=-0.0800 {energia=90.0, integridade=31.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=22 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=22 id=ingenuo_1 emocao=MEDO bemEstar=-1.3150 recompensa=-0.0800 {energia=89.0, integridade=33.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=23 id=ingenuo_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=23 id=ingenuo_1 emocao=MEDO bemEstar=-1.3950 recompensa=-0.0800 {energia=88.0, integridade=35.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=24 id=ingenuo_1 ESQUERDA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=24 id=ingenuo_1 emocao=MEDO bemEstar=-1.7900 recompensa=-0.3950 {energia=86.0, integridade=10.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=25 id=ingenuo_1 FRENTE moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=25 id=ingenuo_1 emocao=MEDO bemEstar=-1.9600 recompensa=-0.1700 {energia=84.0, integridade=0.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=26 id=ingenuo_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=26 id=ingenuo_1 emocao=MEDO bemEstar=-2.0400 recompensa=-0.0800 {energia=83.0, integridade=2.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=27 id=ingenuo_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=27 id=ingenuo_1 emocao=MEDO bemEstar=-2.1200 recompensa=-0.0800 {energia=82.0, integridade=4.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=28 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=28 id=ingenuo_1 emocao=MEDO bemEstar=-1.8000 recompensa=0.3200 {energia=81.0, integridade=6.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=29 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=29 id=ingenuo_1 emocao=MEDO bemEstar=-1.5800 recompensa=0.2200 {energia=80.0, integridade=8.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=30 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=30 id=ingenuo_1 emocao=MEDO bemEstar=-1.5600 recompensa=0.0200 {energia=79.0, integridade=10.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=31 id=ingenuo_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=31 id=ingenuo_1 emocao=MEDO bemEstar=-1.5400 recompensa=0.0200 {energia=78.0, integridade=12.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=32 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=32 id=ingenuo_1 emocao=MEDO bemEstar=-1.5200 recompensa=0.0200 {energia=77.0, integridade=14.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=33 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=33 id=ingenuo_1 emocao=MEDO bemEstar=-1.5000 recompensa=0.0200 {energia=76.0, integridade=16.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=34 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=34 id=ingenuo_1 emocao=MEDO bemEstar=-1.4800 recompensa=0.0200 {energia=75.0, integridade=18.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=35 id=ingenuo_1 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=35 id=ingenuo_1 emocao=MEDO bemEstar=-1.3100 recompensa=0.1700 {energia=89.0, integridade=20.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=36 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=36 id=ingenuo_1 emocao=MEDO bemEstar=-1.2900 recompensa=0.0200 {energia=88.0, integridade=22.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=37 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=37 id=ingenuo_1 emocao=MEDO bemEstar=-1.2700 recompensa=0.0200 {energia=87.0, integridade=24.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=38 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=38 id=ingenuo_1 emocao=MEDO bemEstar=-1.3500 recompensa=-0.0800 {energia=86.0, integridade=26.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=39 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=39 id=ingenuo_1 emocao=MEDO bemEstar=-1.2300 recompensa=0.1200 {energia=85.0, integridade=28.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=40 id=ingenuo_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=40 id=ingenuo_1 emocao=MEDO bemEstar=-1.3100 recompensa=-0.0800 {energia=84.0, integridade=30.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=41 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=41 id=ingenuo_1 emocao=MEDO bemEstar=-1.3900 recompensa=-0.0800 {energia=83.0, integridade=32.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=42 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=42 id=ingenuo_1 emocao=MEDO bemEstar=-1.4700 recompensa=-0.0800 {energia=82.0, integridade=34.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=43 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=43 id=ingenuo_1 emocao=MEDO bemEstar=-1.1500 recompensa=0.3200 {energia=81.0, integridade=36.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=44 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=44 id=ingenuo_1 emocao=MEDO bemEstar=-1.1300 recompensa=0.0200 {energia=80.0, integridade=38.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=45 id=ingenuo_1 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=45 id=ingenuo_1 emocao=MEDO bemEstar=-0.9600 recompensa=0.1700 {energia=94.0, integridade=40.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=46 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=46 id=ingenuo_1 emocao=MEDO bemEstar=-0.9400 recompensa=0.0200 {energia=93.0, integridade=42.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=47 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=47 id=ingenuo_1 emocao=MEDO bemEstar=-0.9200 recompensa=0.0200 {energia=92.0, integridade=44.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=48 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=48 id=ingenuo_1 emocao=MEDO bemEstar=-0.9000 recompensa=0.0200 {energia=91.0, integridade=46.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=49 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=49 id=ingenuo_1 emocao=MEDO bemEstar=-0.8800 recompensa=0.0200 {energia=90.0, integridade=48.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=50 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=50 id=ingenuo_1 emocao=MEDO bemEstar=-0.8600 recompensa=0.0200 {energia=89.0, integridade=50.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=51 id=ingenuo_1 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=51 id=ingenuo_1 emocao=MEDO bemEstar=-0.7200 recompensa=0.1400 {energia=100.0, integridade=52.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=52 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=52 id=ingenuo_1 emocao=MEDO bemEstar=-0.8000 recompensa=-0.0800 {energia=99.0, integridade=54.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=53 id=ingenuo_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=53 id=ingenuo_1 emocao=MEDO bemEstar=-0.8800 recompensa=-0.0800 {energia=98.0, integridade=56.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=54 id=ingenuo_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=54 id=ingenuo_1 emocao=MEDO bemEstar=-0.9600 recompensa=-0.0800 {energia=97.0, integridade=58.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=55 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=55 id=ingenuo_1 emocao=CALMA bemEstar=-1.0400 recompensa=-0.0800 {energia=96.0, integridade=60.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=56 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=56 id=ingenuo_1 emocao=TEDIO bemEstar=-1.1200 recompensa=-0.0800 {energia=95.0, integridade=62.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=57 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=57 id=ingenuo_1 emocao=TEDIO bemEstar=-1.2000 recompensa=-0.0800 {energia=94.0, integridade=64.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=58 id=ingenuo_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=58 id=ingenuo_1 emocao=TEDIO bemEstar=-1.2800 recompensa=-0.0800 {energia=93.0, integridade=66.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=59 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=59 id=ingenuo_1 emocao=TEDIO bemEstar=-1.3600 recompensa=-0.0800 {energia=92.0, integridade=68.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=60 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=60 id=ingenuo_1 emocao=TEDIO bemEstar=-1.4400 recompensa=-0.0800 {energia=91.0, integridade=70.0, tedio=90.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=61 id=ingenuo_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=61 id=ingenuo_1 emocao=TEDIO bemEstar=-1.5200 recompensa=-0.0800 {energia=90.0, integridade=72.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=62 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=62 id=ingenuo_1 emocao=TEDIO bemEstar=-1.5000 recompensa=0.0200 {energia=89.0, integridade=74.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=63 id=ingenuo_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=63 id=ingenuo_1 emocao=TEDIO bemEstar=-1.4800 recompensa=0.0200 {energia=88.0, integridade=76.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=64 id=ingenuo_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=64 id=ingenuo_1 emocao=TEDIO bemEstar=-1.4600 recompensa=0.0200 {energia=87.0, integridade=78.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=65 id=ingenuo_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=65 id=ingenuo_1 emocao=ALEGRIA bemEstar=-1.1400 recompensa=0.3200 {energia=86.0, integridade=80.0, tedio=70.0, temperatura=0.1, deliberacao=0.0}
+tipo=FIM episodio=1 passo=65 id=ingenuo_1 OBJETIVOS_CONCLUIDOS
+tipo=INICIO episodio=1 passo=0 id=transferido_1
+tipo=ACAO episodio=1 passo=1 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=1 id=transferido_1 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=2 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=2 id=transferido_1 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=3 id=transferido_1 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=3 id=transferido_1 emocao=CALMA bemEstar=-0.0000 recompensa=0.0200 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=4 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=4 id=transferido_1 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=5 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=5 id=transferido_1 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=6 id=transferido_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=6 id=transferido_1 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=7 id=transferido_1 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=7 id=transferido_1 emocao=CALMA bemEstar=-0.0000 recompensa=0.0300 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=8 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=8 id=transferido_1 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=9 id=transferido_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=9 id=transferido_1 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=10 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=10 id=transferido_1 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=11 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=11 id=transferido_1 emocao=CALMA bemEstar=-0.0400 recompensa=-0.0100 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=12 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=12 id=transferido_1 emocao=CALMA bemEstar=-0.0500 recompensa=-0.0100 {energia=95.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=13 id=transferido_1 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=13 id=transferido_1 emocao=CALMA bemEstar=-0.0000 recompensa=0.0500 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=14 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=14 id=transferido_1 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=15 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=15 id=transferido_1 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=16 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=16 id=transferido_1 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=17 id=transferido_1 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=17 id=transferido_1 emocao=CALMA bemEstar=-0.0000 recompensa=0.0300 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=18 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=18 id=transferido_1 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=19 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=19 id=transferido_1 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=20 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=20 id=transferido_1 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=21 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=21 id=transferido_1 emocao=CALMA bemEstar=-0.0400 recompensa=-0.0100 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=22 id=transferido_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=22 id=transferido_1 emocao=CALMA bemEstar=-0.1500 recompensa=-0.1100 {energia=95.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=23 id=transferido_1 DIREITA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=23 id=transferido_1 emocao=MEDO bemEstar=-0.5450 recompensa=-0.3950 {energia=93.0, integridade=75.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=24 id=transferido_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=24 id=transferido_1 emocao=CALMA bemEstar=-0.6250 recompensa=-0.0800 {energia=92.0, integridade=77.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=25 id=transferido_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=25 id=transferido_1 emocao=CALMA bemEstar=-0.7050 recompensa=-0.0800 {energia=91.0, integridade=79.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=26 id=transferido_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=26 id=transferido_1 emocao=CALMA bemEstar=-0.7850 recompensa=-0.0800 {energia=90.0, integridade=81.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=27 id=transferido_1 FRENTE moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=27 id=transferido_1 emocao=MEDO bemEstar=-1.1800 recompensa=-0.3950 {energia=88.0, integridade=56.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=28 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=28 id=transferido_1 emocao=MEDO bemEstar=-1.2600 recompensa=-0.0800 {energia=87.0, integridade=58.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=29 id=transferido_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=29 id=transferido_1 emocao=TEDIO bemEstar=-1.3400 recompensa=-0.0800 {energia=86.0, integridade=60.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=30 id=transferido_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=30 id=transferido_1 emocao=TEDIO bemEstar=-1.4200 recompensa=-0.0800 {energia=85.0, integridade=62.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=31 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=31 id=transferido_1 emocao=TEDIO bemEstar=-1.5000 recompensa=-0.0800 {energia=84.0, integridade=64.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=32 id=transferido_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=32 id=transferido_1 emocao=ALEGRIA bemEstar=-1.1800 recompensa=0.3200 {energia=83.0, integridade=66.0, tedio=50.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=33 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=33 id=transferido_1 emocao=ALEGRIA bemEstar=-0.8600 recompensa=0.3200 {energia=82.0, integridade=68.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=34 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=34 id=transferido_1 emocao=CALMA bemEstar=-0.9400 recompensa=-0.0800 {energia=81.0, integridade=70.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=35 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=35 id=transferido_1 emocao=CALMA bemEstar=-1.0200 recompensa=-0.0800 {energia=80.0, integridade=72.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=36 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=36 id=transferido_1 emocao=TEDIO bemEstar=-1.1000 recompensa=-0.0800 {energia=79.0, integridade=74.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=37 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=37 id=transferido_1 emocao=TEDIO bemEstar=-1.1800 recompensa=-0.0800 {energia=78.0, integridade=76.0, tedio=60.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=38 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=38 id=transferido_1 emocao=ALEGRIA bemEstar=-0.8600 recompensa=0.3200 {energia=77.0, integridade=78.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=39 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=39 id=transferido_1 emocao=ALEGRIA bemEstar=-0.5400 recompensa=0.3200 {energia=76.0, integridade=80.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=40 id=transferido_1 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=40 id=transferido_1 emocao=ALEGRIA bemEstar=-0.3700 recompensa=0.1700 {energia=90.0, integridade=82.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=41 id=transferido_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=41 id=transferido_1 emocao=CALMA bemEstar=-0.3500 recompensa=0.0200 {energia=89.0, integridade=84.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=42 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=42 id=transferido_1 emocao=CALMA bemEstar=-0.3300 recompensa=0.0200 {energia=88.0, integridade=86.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=43 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=43 id=transferido_1 emocao=CALMA bemEstar=-0.3100 recompensa=0.0200 {energia=87.0, integridade=88.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=44 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=44 id=transferido_1 emocao=CALMA bemEstar=-0.2900 recompensa=0.0200 {energia=86.0, integridade=90.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=45 id=transferido_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=45 id=transferido_1 emocao=CALMA bemEstar=-0.3700 recompensa=-0.0800 {energia=85.0, integridade=92.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=46 id=transferido_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=46 id=transferido_1 emocao=CALMA bemEstar=-0.2500 recompensa=0.1200 {energia=84.0, integridade=94.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=47 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=47 id=transferido_1 emocao=CALMA bemEstar=-0.3300 recompensa=-0.0800 {energia=83.0, integridade=96.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=48 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=48 id=transferido_1 emocao=CALMA bemEstar=-0.2100 recompensa=0.1200 {energia=82.0, integridade=98.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=49 id=transferido_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=49 id=transferido_1 emocao=CALMA bemEstar=-0.2900 recompensa=-0.0800 {energia=81.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=50 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=50 id=transferido_1 emocao=CALMA bemEstar=-0.4000 recompensa=-0.1100 {energia=80.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=51 id=transferido_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=51 id=transferido_1 emocao=CALMA bemEstar=-0.5100 recompensa=-0.1100 {energia=79.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=52 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=52 id=transferido_1 emocao=CALMA bemEstar=-0.6200 recompensa=-0.1100 {energia=78.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=53 id=transferido_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=53 id=transferido_1 emocao=TEDIO bemEstar=-0.7300 recompensa=-0.1100 {energia=77.0, integridade=100.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=54 id=transferido_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=54 id=transferido_1 emocao=TEDIO bemEstar=-0.8400 recompensa=-0.1100 {energia=76.0, integridade=100.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=55 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=55 id=transferido_1 emocao=TEDIO bemEstar=-0.9500 recompensa=-0.1100 {energia=75.0, integridade=100.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=56 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=56 id=transferido_1 emocao=TEDIO bemEstar=-1.0600 recompensa=-0.1100 {energia=74.0, integridade=100.0, tedio=80.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=57 id=transferido_1 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=57 id=transferido_1 emocao=TEDIO bemEstar=-1.1700 recompensa=-0.1100 {energia=73.0, integridade=100.0, tedio=90.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=58 id=transferido_1 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=58 id=transferido_1 emocao=TEDIO bemEstar=-1.2800 recompensa=-0.1100 {energia=72.0, integridade=100.0, tedio=100.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=59 id=transferido_1 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=59 id=transferido_1 emocao=TEDIO bemEstar=-1.2900 recompensa=-0.0100 {energia=71.0, integridade=100.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=60 id=transferido_1 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=60 id=transferido_1 emocao=ALEGRIA bemEstar=-1.0000 recompensa=0.2900 {energia=70.0, integridade=100.0, tedio=70.0, temperatura=0.1, deliberacao=0.0}
+tipo=FIM episodio=1 passo=60 id=transferido_1 OBJETIVOS_CONCLUIDOS
+tipo=INICIO episodio=1 passo=0 id=ingenuo_2
+tipo=ACAO episodio=1 passo=1 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=1 id=ingenuo_2 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=2 id=ingenuo_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=2 id=ingenuo_2 emocao=CALMA bemEstar=-0.1200 recompensa=-0.1100 {energia=98.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=3 id=ingenuo_2 DIREITA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=3 id=ingenuo_2 emocao=MEDO bemEstar=-0.5150 recompensa=-0.3950 {energia=96.0, integridade=75.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=4 id=ingenuo_2 TRAS moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=4 id=ingenuo_2 emocao=MEDO bemEstar=-0.9100 recompensa=-0.3950 {energia=94.0, integridade=50.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=5 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=5 id=ingenuo_2 emocao=MEDO bemEstar=-0.9900 recompensa=-0.0800 {energia=93.0, integridade=52.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=6 id=ingenuo_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=6 id=ingenuo_2 emocao=MEDO bemEstar=-1.0700 recompensa=-0.0800 {energia=92.0, integridade=54.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=7 id=ingenuo_2 FRENTE moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=7 id=ingenuo_2 emocao=MEDO bemEstar=-1.4650 recompensa=-0.3950 {energia=90.0, integridade=29.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=8 id=ingenuo_2 ESQUERDA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=8 id=ingenuo_2 emocao=MEDO bemEstar=-1.8600 recompensa=-0.3950 {energia=88.0, integridade=4.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=9 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=9 id=ingenuo_2 emocao=MEDO bemEstar=-1.9400 recompensa=-0.0800 {energia=87.0, integridade=6.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=10 id=ingenuo_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=10 id=ingenuo_2 emocao=MEDO bemEstar=-2.0200 recompensa=-0.0800 {energia=86.0, integridade=8.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=11 id=ingenuo_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=11 id=ingenuo_2 emocao=MEDO bemEstar=-2.1000 recompensa=-0.0800 {energia=85.0, integridade=10.0, tedio=60.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=12 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=12 id=ingenuo_2 emocao=MEDO bemEstar=-1.7800 recompensa=0.3200 {energia=84.0, integridade=12.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=13 id=ingenuo_2 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=13 id=ingenuo_2 emocao=MEDO bemEstar=-1.6100 recompensa=0.1700 {energia=98.0, integridade=14.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=14 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=14 id=ingenuo_2 emocao=MEDO bemEstar=-1.2900 recompensa=0.3200 {energia=97.0, integridade=16.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=15 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=15 id=ingenuo_2 emocao=MEDO bemEstar=-1.2700 recompensa=0.0200 {energia=96.0, integridade=18.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=16 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=16 id=ingenuo_2 emocao=MEDO bemEstar=-1.2500 recompensa=0.0200 {energia=95.0, integridade=20.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=17 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=17 id=ingenuo_2 emocao=MEDO bemEstar=-1.2300 recompensa=0.0200 {energia=94.0, integridade=22.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=18 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=18 id=ingenuo_2 emocao=MEDO bemEstar=-1.2100 recompensa=0.0200 {energia=93.0, integridade=24.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=19 id=ingenuo_2 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=19 id=ingenuo_2 emocao=MEDO bemEstar=-1.1100 recompensa=0.1000 {energia=100.0, integridade=26.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=20 id=ingenuo_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=20 id=ingenuo_2 emocao=MEDO bemEstar=-1.1900 recompensa=-0.0800 {energia=99.0, integridade=28.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=21 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=21 id=ingenuo_2 emocao=MEDO bemEstar=-1.2700 recompensa=-0.0800 {energia=98.0, integridade=30.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=22 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=22 id=ingenuo_2 emocao=MEDO bemEstar=-1.3500 recompensa=-0.0800 {energia=97.0, integridade=32.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=23 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=23 id=ingenuo_2 emocao=MEDO bemEstar=-1.4300 recompensa=-0.0800 {energia=96.0, integridade=34.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=24 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=24 id=ingenuo_2 emocao=MEDO bemEstar=-1.5100 recompensa=-0.0800 {energia=95.0, integridade=36.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=25 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=25 id=ingenuo_2 emocao=MEDO bemEstar=-1.1900 recompensa=0.3200 {energia=94.0, integridade=38.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=26 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=26 id=ingenuo_2 emocao=MEDO bemEstar=-0.9700 recompensa=0.2200 {energia=93.0, integridade=40.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=27 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=27 id=ingenuo_2 emocao=MEDO bemEstar=-0.9500 recompensa=0.0200 {energia=92.0, integridade=42.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=28 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=28 id=ingenuo_2 emocao=MEDO bemEstar=-0.9300 recompensa=0.0200 {energia=91.0, integridade=44.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=29 id=ingenuo_2 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=29 id=ingenuo_2 emocao=MEDO bemEstar=-0.8100 recompensa=0.1200 {energia=100.0, integridade=46.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=30 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=30 id=ingenuo_2 emocao=MEDO bemEstar=-0.7900 recompensa=0.0200 {energia=99.0, integridade=48.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=31 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=31 id=ingenuo_2 emocao=MEDO bemEstar=-0.7700 recompensa=0.0200 {energia=98.0, integridade=50.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=32 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=32 id=ingenuo_2 emocao=MEDO bemEstar=-0.7500 recompensa=0.0200 {energia=97.0, integridade=52.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=33 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=33 id=ingenuo_2 emocao=MEDO bemEstar=-0.8300 recompensa=-0.0800 {energia=96.0, integridade=54.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=34 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=34 id=ingenuo_2 emocao=MEDO bemEstar=-0.7100 recompensa=0.1200 {energia=95.0, integridade=56.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=35 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=35 id=ingenuo_2 emocao=MEDO bemEstar=-0.6900 recompensa=0.0200 {energia=94.0, integridade=58.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=36 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=36 id=ingenuo_2 emocao=CALMA bemEstar=-0.6700 recompensa=0.0200 {energia=93.0, integridade=60.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=37 id=ingenuo_2 FRENTE moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=37 id=ingenuo_2 emocao=MEDO bemEstar=-1.0650 recompensa=-0.3950 {energia=91.0, integridade=35.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=38 id=ingenuo_2 DIREITA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=38 id=ingenuo_2 emocao=MEDO bemEstar=-1.4600 recompensa=-0.3950 {energia=89.0, integridade=10.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=39 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=39 id=ingenuo_2 emocao=MEDO bemEstar=-1.5400 recompensa=-0.0800 {energia=88.0, integridade=12.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=40 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=40 id=ingenuo_2 emocao=MEDO bemEstar=-1.4200 recompensa=0.1200 {energia=87.0, integridade=14.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=41 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=41 id=ingenuo_2 emocao=MEDO bemEstar=-1.4000 recompensa=0.0200 {energia=86.0, integridade=16.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=42 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=42 id=ingenuo_2 emocao=MEDO bemEstar=-1.3800 recompensa=0.0200 {energia=85.0, integridade=18.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=43 id=ingenuo_2 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=43 id=ingenuo_2 emocao=MEDO bemEstar=-1.2100 recompensa=0.1700 {energia=99.0, integridade=20.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=44 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=44 id=ingenuo_2 emocao=MEDO bemEstar=-1.1900 recompensa=0.0200 {energia=98.0, integridade=22.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=45 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=45 id=ingenuo_2 emocao=MEDO bemEstar=-1.2700 recompensa=-0.0800 {energia=97.0, integridade=24.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=46 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=46 id=ingenuo_2 emocao=MEDO bemEstar=-1.3500 recompensa=-0.0800 {energia=96.0, integridade=26.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=47 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=47 id=ingenuo_2 emocao=MEDO bemEstar=-1.4300 recompensa=-0.0800 {energia=95.0, integridade=28.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=48 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=48 id=ingenuo_2 emocao=MEDO bemEstar=-1.5100 recompensa=-0.0800 {energia=94.0, integridade=30.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=49 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=49 id=ingenuo_2 emocao=MEDO bemEstar=-1.5900 recompensa=-0.0800 {energia=93.0, integridade=32.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=50 id=ingenuo_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=50 id=ingenuo_2 emocao=MEDO bemEstar=-1.6700 recompensa=-0.0800 {energia=92.0, integridade=34.0, tedio=60.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=51 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=51 id=ingenuo_2 emocao=MEDO bemEstar=-1.7500 recompensa=-0.0800 {energia=91.0, integridade=36.0, tedio=70.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=52 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=52 id=ingenuo_2 emocao=MEDO bemEstar=-1.8300 recompensa=-0.0800 {energia=90.0, integridade=38.0, tedio=80.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=53 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=53 id=ingenuo_2 emocao=MEDO bemEstar=-1.5100 recompensa=0.3200 {energia=89.0, integridade=40.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=54 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=54 id=ingenuo_2 emocao=MEDO bemEstar=-1.1900 recompensa=0.3200 {energia=88.0, integridade=42.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=55 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=55 id=ingenuo_2 emocao=MEDO bemEstar=-0.9700 recompensa=0.2200 {energia=87.0, integridade=44.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=56 id=ingenuo_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=56 id=ingenuo_2 emocao=MEDO bemEstar=-0.9500 recompensa=0.0200 {energia=86.0, integridade=46.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=57 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=57 id=ingenuo_2 emocao=MEDO bemEstar=-0.9300 recompensa=0.0200 {energia=85.0, integridade=48.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=58 id=ingenuo_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=58 id=ingenuo_2 emocao=MEDO bemEstar=-0.9100 recompensa=0.0200 {energia=84.0, integridade=50.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=59 id=ingenuo_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=59 id=ingenuo_2 emocao=MEDO bemEstar=-0.8900 recompensa=0.0200 {energia=83.0, integridade=52.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=60 id=ingenuo_2 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=60 id=ingenuo_2 emocao=MEDO bemEstar=-0.7200 recompensa=0.1700 {energia=97.0, integridade=54.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=FIM episodio=1 passo=60 id=ingenuo_2 OBJETIVOS_CONCLUIDOS
+tipo=INICIO episodio=1 passo=0 id=transferido_2
+tipo=ACAO episodio=1 passo=1 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=1 id=transferido_2 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=2 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=2 id=transferido_2 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=3 id=transferido_2 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=3 id=transferido_2 emocao=CALMA bemEstar=-0.0000 recompensa=0.0200 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=4 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=4 id=transferido_2 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=5 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=5 id=transferido_2 emocao=CALMA bemEstar=-0.1200 recompensa=-0.1100 {energia=98.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=6 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=6 id=transferido_2 emocao=CALMA bemEstar=-0.0300 recompensa=0.0900 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=7 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=7 id=transferido_2 emocao=CALMA bemEstar=-0.1400 recompensa=-0.1100 {energia=96.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=8 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=8 id=transferido_2 emocao=CALMA bemEstar=-0.2500 recompensa=-0.1100 {energia=95.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=9 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=9 id=transferido_2 emocao=CALMA bemEstar=-0.3600 recompensa=-0.1100 {energia=94.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=10 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=10 id=transferido_2 emocao=CALMA bemEstar=-0.4700 recompensa=-0.1100 {energia=93.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=11 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=11 id=transferido_2 emocao=TEDIO bemEstar=-0.5800 recompensa=-0.1100 {energia=92.0, integridade=100.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=12 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=12 id=transferido_2 emocao=TEDIO bemEstar=-0.6900 recompensa=-0.1100 {energia=91.0, integridade=100.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=13 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=13 id=transferido_2 emocao=TEDIO bemEstar=-0.8000 recompensa=-0.1100 {energia=90.0, integridade=100.0, tedio=70.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=14 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=14 id=transferido_2 emocao=TEDIO bemEstar=-0.9100 recompensa=-0.1100 {energia=89.0, integridade=100.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=15 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=15 id=transferido_2 emocao=ALEGRIA bemEstar=-0.6200 recompensa=0.2900 {energia=88.0, integridade=100.0, tedio=50.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=16 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=16 id=transferido_2 emocao=ALEGRIA bemEstar=-0.3300 recompensa=0.2900 {energia=87.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=17 id=transferido_2 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=17 id=transferido_2 emocao=CALMA bemEstar=-0.2000 recompensa=0.1300 {energia=100.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=18 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=18 id=transferido_2 emocao=ALEGRIA bemEstar=-0.0100 recompensa=0.1900 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=19 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=19 id=transferido_2 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=20 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=20 id=transferido_2 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=21 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=21 id=transferido_2 emocao=CALMA bemEstar=-0.1400 recompensa=-0.1100 {energia=96.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=22 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=22 id=transferido_2 emocao=CALMA bemEstar=-0.2500 recompensa=-0.1100 {energia=95.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=23 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=23 id=transferido_2 emocao=ALEGRIA bemEstar=-0.0600 recompensa=0.1900 {energia=94.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=24 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=24 id=transferido_2 emocao=CALMA bemEstar=-0.0700 recompensa=-0.0100 {energia=93.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=25 id=transferido_2 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=25 id=transferido_2 emocao=CALMA bemEstar=-0.0000 recompensa=0.0700 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=26 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=26 id=transferido_2 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=27 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=27 id=transferido_2 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=28 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=28 id=transferido_2 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=29 id=transferido_2 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=29 id=transferido_2 emocao=CALMA bemEstar=-0.0000 recompensa=0.0300 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=30 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=30 id=transferido_2 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=31 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=31 id=transferido_2 emocao=CALMA bemEstar=-0.1200 recompensa=-0.1100 {energia=98.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=32 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=32 id=transferido_2 emocao=CALMA bemEstar=-0.2300 recompensa=-0.1100 {energia=97.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=33 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=33 id=transferido_2 emocao=ALEGRIA bemEstar=-0.0400 recompensa=0.1900 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=34 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=34 id=transferido_2 emocao=CALMA bemEstar=-0.1500 recompensa=-0.1100 {energia=95.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=35 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=35 id=transferido_2 emocao=CALMA bemEstar=-0.2600 recompensa=-0.1100 {energia=94.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=36 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=36 id=transferido_2 emocao=CALMA bemEstar=-0.3700 recompensa=-0.1100 {energia=93.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=37 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=37 id=transferido_2 emocao=CALMA bemEstar=-0.4800 recompensa=-0.1100 {energia=92.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=38 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=38 id=transferido_2 emocao=TEDIO bemEstar=-0.5900 recompensa=-0.1100 {energia=91.0, integridade=100.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=39 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=39 id=transferido_2 emocao=TEDIO bemEstar=-0.7000 recompensa=-0.1100 {energia=90.0, integridade=100.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=40 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=40 id=transferido_2 emocao=TEDIO bemEstar=-0.8100 recompensa=-0.1100 {energia=89.0, integridade=100.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=41 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=41 id=transferido_2 emocao=ALEGRIA bemEstar=-0.5200 recompensa=0.2900 {energia=88.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=42 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=42 id=transferido_2 emocao=ALEGRIA bemEstar=-0.2300 recompensa=0.2900 {energia=87.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=43 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=43 id=transferido_2 emocao=CALMA bemEstar=-0.3400 recompensa=-0.1100 {energia=86.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=44 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=44 id=transferido_2 emocao=CALMA bemEstar=-0.4500 recompensa=-0.1100 {energia=85.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=45 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=45 id=transferido_2 emocao=ALEGRIA bemEstar=-0.1600 recompensa=0.2900 {energia=84.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=46 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=46 id=transferido_2 emocao=CALMA bemEstar=-0.1700 recompensa=-0.0100 {energia=83.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=47 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=47 id=transferido_2 emocao=CALMA bemEstar=-0.1800 recompensa=-0.0100 {energia=82.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=48 id=transferido_2 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=48 id=transferido_2 emocao=CALMA bemEstar=-0.0400 recompensa=0.1400 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=49 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=49 id=transferido_2 emocao=CALMA bemEstar=-0.0500 recompensa=-0.0100 {energia=95.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=50 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=50 id=transferido_2 emocao=CALMA bemEstar=-0.0600 recompensa=-0.0100 {energia=94.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=51 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=51 id=transferido_2 emocao=CALMA bemEstar=-0.0700 recompensa=-0.0100 {energia=93.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=52 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=52 id=transferido_2 emocao=CALMA bemEstar=-0.1800 recompensa=-0.1100 {energia=92.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=53 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=53 id=transferido_2 emocao=CALMA bemEstar=-0.2900 recompensa=-0.1100 {energia=91.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=54 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=54 id=transferido_2 emocao=ALEGRIA bemEstar=-0.1000 recompensa=0.1900 {energia=90.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=55 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=55 id=transferido_2 emocao=CALMA bemEstar=-0.1100 recompensa=-0.0100 {energia=89.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=56 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=56 id=transferido_2 emocao=CALMA bemEstar=-0.2200 recompensa=-0.1100 {energia=88.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=57 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=57 id=transferido_2 emocao=CALMA bemEstar=-0.3300 recompensa=-0.1100 {energia=87.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=58 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=58 id=transferido_2 emocao=ALEGRIA bemEstar=-0.1400 recompensa=0.1900 {energia=86.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=59 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=59 id=transferido_2 emocao=CALMA bemEstar=-0.2500 recompensa=-0.1100 {energia=85.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=60 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=60 id=transferido_2 emocao=CALMA bemEstar=-0.3600 recompensa=-0.1100 {energia=84.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=61 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=61 id=transferido_2 emocao=CALMA bemEstar=-0.4700 recompensa=-0.1100 {energia=83.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=62 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=62 id=transferido_2 emocao=CALMA bemEstar=-0.5800 recompensa=-0.1100 {energia=82.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=63 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=63 id=transferido_2 emocao=TEDIO bemEstar=-0.6900 recompensa=-0.1100 {energia=81.0, integridade=100.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=64 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=64 id=transferido_2 emocao=TEDIO bemEstar=-0.8000 recompensa=-0.1100 {energia=80.0, integridade=100.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=65 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=65 id=transferido_2 emocao=TEDIO bemEstar=-0.9100 recompensa=-0.1100 {energia=79.0, integridade=100.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=66 id=transferido_2 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=66 id=transferido_2 emocao=TEDIO bemEstar=-1.0200 recompensa=-0.1100 {energia=78.0, integridade=100.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=67 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=67 id=transferido_2 emocao=TEDIO bemEstar=-1.1300 recompensa=-0.1100 {energia=77.0, integridade=100.0, tedio=90.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=68 id=transferido_2 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=68 id=transferido_2 emocao=TEDIO bemEstar=-1.2400 recompensa=-0.1100 {energia=76.0, integridade=100.0, tedio=100.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=69 id=transferido_2 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=69 id=transferido_2 emocao=TEDIO bemEstar=-1.2500 recompensa=-0.0100 {energia=75.0, integridade=100.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=70 id=transferido_2 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=70 id=transferido_2 emocao=ALEGRIA bemEstar=-0.9600 recompensa=0.2900 {energia=74.0, integridade=100.0, tedio=70.0, temperatura=0.1, deliberacao=0.0}
+tipo=FIM episodio=1 passo=70 id=transferido_2 OBJETIVOS_CONCLUIDOS
+tipo=INICIO episodio=1 passo=0 id=ingenuo_3
+tipo=ACAO episodio=1 passo=1 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=1 id=ingenuo_3 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=2 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=2 id=ingenuo_3 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=3 id=ingenuo_3 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=3 id=ingenuo_3 emocao=CALMA bemEstar=-0.0000 recompensa=0.0200 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=4 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=4 id=ingenuo_3 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=5 id=ingenuo_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=5 id=ingenuo_3 emocao=CALMA bemEstar=-0.1200 recompensa=-0.1100 {energia=98.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=6 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=6 id=ingenuo_3 emocao=CALMA bemEstar=-0.2300 recompensa=-0.1100 {energia=97.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=7 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=7 id=ingenuo_3 emocao=ALEGRIA bemEstar=-0.0400 recompensa=0.1900 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=8 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=8 id=ingenuo_3 emocao=CALMA bemEstar=-0.0500 recompensa=-0.0100 {energia=95.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=9 id=ingenuo_3 FRENTE moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=9 id=ingenuo_3 emocao=MEDO bemEstar=-0.4450 recompensa=-0.3950 {energia=93.0, integridade=75.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=10 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=10 id=ingenuo_3 emocao=CALMA bemEstar=-0.5250 recompensa=-0.0800 {energia=92.0, integridade=77.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=11 id=ingenuo_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=11 id=ingenuo_3 emocao=CALMA bemEstar=-0.6050 recompensa=-0.0800 {energia=91.0, integridade=79.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=12 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=12 id=ingenuo_3 emocao=ALEGRIA bemEstar=-0.3850 recompensa=0.2200 {energia=90.0, integridade=81.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=13 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=13 id=ingenuo_3 emocao=CALMA bemEstar=-0.3650 recompensa=0.0200 {energia=89.0, integridade=83.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=14 id=ingenuo_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=14 id=ingenuo_3 emocao=CALMA bemEstar=-0.4450 recompensa=-0.0800 {energia=88.0, integridade=85.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=15 id=ingenuo_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=15 id=ingenuo_3 emocao=CALMA bemEstar=-0.5250 recompensa=-0.0800 {energia=87.0, integridade=87.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=16 id=ingenuo_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=16 id=ingenuo_3 emocao=CALMA bemEstar=-0.6050 recompensa=-0.0800 {energia=86.0, integridade=89.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=17 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=17 id=ingenuo_3 emocao=ALEGRIA bemEstar=-0.2850 recompensa=0.3200 {energia=85.0, integridade=91.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=18 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=18 id=ingenuo_3 emocao=CALMA bemEstar=-0.2650 recompensa=0.0200 {energia=84.0, integridade=93.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=19 id=ingenuo_3 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=19 id=ingenuo_3 emocao=ALEGRIA bemEstar=-0.0950 recompensa=0.1700 {energia=98.0, integridade=95.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=20 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=20 id=ingenuo_3 emocao=CALMA bemEstar=-0.0750 recompensa=0.0200 {energia=97.0, integridade=97.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=21 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=21 id=ingenuo_3 emocao=CALMA bemEstar=-0.0550 recompensa=0.0200 {energia=96.0, integridade=99.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=22 id=ingenuo_3 DIREITA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=22 id=ingenuo_3 emocao=MEDO bemEstar=-0.4500 recompensa=-0.3950 {energia=94.0, integridade=74.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=23 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=23 id=ingenuo_3 emocao=CALMA bemEstar=-0.4300 recompensa=0.0200 {energia=93.0, integridade=76.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=24 id=ingenuo_3 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=24 id=ingenuo_3 emocao=CALMA bemEstar=-0.3300 recompensa=0.1000 {energia=100.0, integridade=78.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=25 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=25 id=ingenuo_3 emocao=CALMA bemEstar=-0.3100 recompensa=0.0200 {energia=99.0, integridade=80.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=26 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=26 id=ingenuo_3 emocao=CALMA bemEstar=-0.2900 recompensa=0.0200 {energia=98.0, integridade=82.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=27 id=ingenuo_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=27 id=ingenuo_3 emocao=CALMA bemEstar=-0.3700 recompensa=-0.0800 {energia=97.0, integridade=84.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=28 id=ingenuo_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=28 id=ingenuo_3 emocao=CALMA bemEstar=-0.4500 recompensa=-0.0800 {energia=96.0, integridade=86.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=29 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=29 id=ingenuo_3 emocao=ALEGRIA bemEstar=-0.2300 recompensa=0.2200 {energia=95.0, integridade=88.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=30 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=30 id=ingenuo_3 emocao=CALMA bemEstar=-0.2100 recompensa=0.0200 {energia=94.0, integridade=90.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=31 id=ingenuo_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=31 id=ingenuo_3 emocao=CALMA bemEstar=-0.1900 recompensa=0.0200 {energia=93.0, integridade=92.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=32 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=32 id=ingenuo_3 emocao=CALMA bemEstar=-0.1700 recompensa=0.0200 {energia=92.0, integridade=94.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=33 id=ingenuo_3 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=33 id=ingenuo_3 emocao=CALMA bemEstar=-0.0600 recompensa=0.1100 {energia=100.0, integridade=96.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=34 id=ingenuo_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=34 id=ingenuo_3 emocao=CALMA bemEstar=-0.1400 recompensa=-0.0800 {energia=99.0, integridade=98.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=35 id=ingenuo_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=35 id=ingenuo_3 emocao=CALMA bemEstar=-0.2200 recompensa=-0.0800 {energia=98.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=36 id=ingenuo_3 DIREITA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=36 id=ingenuo_3 emocao=MEDO bemEstar=-0.6150 recompensa=-0.3950 {energia=96.0, integridade=75.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=37 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=37 id=ingenuo_3 emocao=CALMA bemEstar=-0.6950 recompensa=-0.0800 {energia=95.0, integridade=77.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=38 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=38 id=ingenuo_3 emocao=ALEGRIA bemEstar=-0.3750 recompensa=0.3200 {energia=94.0, integridade=79.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=39 id=ingenuo_3 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=39 id=ingenuo_3 emocao=CALMA bemEstar=-0.2850 recompensa=0.0900 {energia=100.0, integridade=81.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=40 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=40 id=ingenuo_3 emocao=CALMA bemEstar=-0.2650 recompensa=0.0200 {energia=99.0, integridade=83.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=41 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=41 id=ingenuo_3 emocao=CALMA bemEstar=-0.2450 recompensa=0.0200 {energia=98.0, integridade=85.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=42 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=42 id=ingenuo_3 emocao=CALMA bemEstar=-0.2250 recompensa=0.0200 {energia=97.0, integridade=87.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=43 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=43 id=ingenuo_3 emocao=CALMA bemEstar=-0.2050 recompensa=0.0200 {energia=96.0, integridade=89.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=44 id=ingenuo_3 ESQUERDA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=44 id=ingenuo_3 emocao=MEDO bemEstar=-0.6000 recompensa=-0.3950 {energia=94.0, integridade=64.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=45 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=45 id=ingenuo_3 emocao=CALMA bemEstar=-0.6800 recompensa=-0.0800 {energia=93.0, integridade=66.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=46 id=ingenuo_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=46 id=ingenuo_3 emocao=CALMA bemEstar=-0.5600 recompensa=0.1200 {energia=92.0, integridade=68.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=47 id=ingenuo_3 ESQUERDA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=47 id=ingenuo_3 emocao=MEDO bemEstar=-0.9550 recompensa=-0.3950 {energia=90.0, integridade=43.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=48 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=48 id=ingenuo_3 emocao=MEDO bemEstar=-1.0350 recompensa=-0.0800 {energia=89.0, integridade=45.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=49 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=49 id=ingenuo_3 emocao=MEDO bemEstar=-1.1150 recompensa=-0.0800 {energia=88.0, integridade=47.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=50 id=ingenuo_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=50 id=ingenuo_3 emocao=MEDO bemEstar=-1.1950 recompensa=-0.0800 {energia=87.0, integridade=49.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=51 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=51 id=ingenuo_3 emocao=MEDO bemEstar=-1.2750 recompensa=-0.0800 {energia=86.0, integridade=51.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=52 id=ingenuo_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=52 id=ingenuo_3 emocao=MEDO bemEstar=-1.3550 recompensa=-0.0800 {energia=85.0, integridade=53.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=53 id=ingenuo_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=53 id=ingenuo_3 emocao=MEDO bemEstar=-1.4350 recompensa=-0.0800 {energia=84.0, integridade=55.0, tedio=60.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=54 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=54 id=ingenuo_3 emocao=MEDO bemEstar=-1.5150 recompensa=-0.0800 {energia=83.0, integridade=57.0, tedio=70.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=55 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=55 id=ingenuo_3 emocao=MEDO bemEstar=-1.1950 recompensa=0.3200 {energia=82.0, integridade=59.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=56 id=ingenuo_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=56 id=ingenuo_3 emocao=TEDIO bemEstar=-1.2750 recompensa=-0.0800 {energia=81.0, integridade=61.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=57 id=ingenuo_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=57 id=ingenuo_3 emocao=TEDIO bemEstar=-1.3550 recompensa=-0.0800 {energia=80.0, integridade=63.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=58 id=ingenuo_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=58 id=ingenuo_3 emocao=TEDIO bemEstar=-1.4350 recompensa=-0.0800 {energia=79.0, integridade=65.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=59 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=59 id=ingenuo_3 emocao=TEDIO bemEstar=-1.5150 recompensa=-0.0800 {energia=78.0, integridade=67.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=60 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=60 id=ingenuo_3 emocao=TEDIO bemEstar=-1.5950 recompensa=-0.0800 {energia=77.0, integridade=69.0, tedio=90.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=61 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=61 id=ingenuo_3 emocao=TEDIO bemEstar=-1.6750 recompensa=-0.0800 {energia=76.0, integridade=71.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=62 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=62 id=ingenuo_3 emocao=TEDIO bemEstar=-1.6550 recompensa=0.0200 {energia=75.0, integridade=73.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=63 id=ingenuo_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=63 id=ingenuo_3 emocao=TEDIO bemEstar=-1.6350 recompensa=0.0200 {energia=74.0, integridade=75.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=64 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=64 id=ingenuo_3 emocao=ALEGRIA bemEstar=-1.3150 recompensa=0.3200 {energia=73.0, integridade=77.0, tedio=70.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=65 id=ingenuo_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=65 id=ingenuo_3 emocao=ALEGRIA bemEstar=-0.9950 recompensa=0.3200 {energia=72.0, integridade=79.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=66 id=ingenuo_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=66 id=ingenuo_3 emocao=ALEGRIA bemEstar=-0.6750 recompensa=0.3200 {energia=71.0, integridade=81.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=FIM episodio=1 passo=66 id=ingenuo_3 OBJETIVOS_CONCLUIDOS
+tipo=INICIO episodio=1 passo=0 id=transferido_3
+tipo=ACAO episodio=1 passo=1 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=1 id=transferido_3 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=2 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=2 id=transferido_3 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=3 id=transferido_3 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=3 id=transferido_3 emocao=CALMA bemEstar=-0.0000 recompensa=0.0200 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=4 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=4 id=transferido_3 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=5 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=5 id=transferido_3 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=6 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=6 id=transferido_3 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=7 id=transferido_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=7 id=transferido_3 emocao=CALMA bemEstar=-0.0400 recompensa=-0.0100 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=8 id=transferido_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=8 id=transferido_3 emocao=CALMA bemEstar=-0.0500 recompensa=-0.0100 {energia=95.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=9 id=transferido_3 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=9 id=transferido_3 emocao=CALMA bemEstar=-0.0000 recompensa=0.0500 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=10 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=10 id=transferido_3 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=11 id=transferido_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=11 id=transferido_3 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=12 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=12 id=transferido_3 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=13 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=13 id=transferido_3 emocao=CALMA bemEstar=-0.0400 recompensa=-0.0100 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=14 id=transferido_3 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=14 id=transferido_3 emocao=CALMA bemEstar=-0.0000 recompensa=0.0400 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=15 id=transferido_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=15 id=transferido_3 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=16 id=transferido_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=16 id=transferido_3 emocao=CALMA bemEstar=-0.1200 recompensa=-0.1100 {energia=98.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=17 id=transferido_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=17 id=transferido_3 emocao=CALMA bemEstar=-0.0300 recompensa=0.0900 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=18 id=transferido_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=18 id=transferido_3 emocao=CALMA bemEstar=-0.1400 recompensa=-0.1100 {energia=96.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=19 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=19 id=transferido_3 emocao=CALMA bemEstar=-0.2500 recompensa=-0.1100 {energia=95.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=20 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=20 id=transferido_3 emocao=ALEGRIA bemEstar=-0.0600 recompensa=0.1900 {energia=94.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=21 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=21 id=transferido_3 emocao=CALMA bemEstar=-0.1700 recompensa=-0.1100 {energia=93.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=22 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=22 id=transferido_3 emocao=CALMA bemEstar=-0.2800 recompensa=-0.1100 {energia=92.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=23 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=23 id=transferido_3 emocao=CALMA bemEstar=-0.3900 recompensa=-0.1100 {energia=91.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=24 id=transferido_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=24 id=transferido_3 emocao=CALMA bemEstar=-0.5000 recompensa=-0.1100 {energia=90.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=25 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=25 id=transferido_3 emocao=TEDIO bemEstar=-0.6100 recompensa=-0.1100 {energia=89.0, integridade=100.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=26 id=transferido_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=26 id=transferido_3 emocao=TEDIO bemEstar=-0.7200 recompensa=-0.1100 {energia=88.0, integridade=100.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=27 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=27 id=transferido_3 emocao=TEDIO bemEstar=-0.8300 recompensa=-0.1100 {energia=87.0, integridade=100.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=28 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=28 id=transferido_3 emocao=ALEGRIA bemEstar=-0.5400 recompensa=0.2900 {energia=86.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=29 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=29 id=transferido_3 emocao=ALEGRIA bemEstar=-0.2500 recompensa=0.2900 {energia=85.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=30 id=transferido_3 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=30 id=transferido_3 emocao=CALMA bemEstar=-0.1100 recompensa=0.1400 {energia=99.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=31 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=31 id=transferido_3 emocao=CALMA bemEstar=-0.0200 recompensa=0.0900 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=32 id=transferido_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=32 id=transferido_3 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=33 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=33 id=transferido_3 emocao=CALMA bemEstar=-0.0400 recompensa=-0.0100 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=34 id=transferido_3 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=34 id=transferido_3 emocao=CALMA bemEstar=-0.0000 recompensa=0.0400 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=35 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=35 id=transferido_3 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=36 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=36 id=transferido_3 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=37 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=37 id=transferido_3 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=38 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=38 id=transferido_3 emocao=CALMA bemEstar=-0.0400 recompensa=-0.0100 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=39 id=transferido_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=39 id=transferido_3 emocao=CALMA bemEstar=-0.1500 recompensa=-0.1100 {energia=95.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=40 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=40 id=transferido_3 emocao=CALMA bemEstar=-0.2600 recompensa=-0.1100 {energia=94.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=41 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=41 id=transferido_3 emocao=CALMA bemEstar=-0.3700 recompensa=-0.1100 {energia=93.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=42 id=transferido_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=42 id=transferido_3 emocao=CALMA bemEstar=-0.4800 recompensa=-0.1100 {energia=92.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=43 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=43 id=transferido_3 emocao=TEDIO bemEstar=-0.5900 recompensa=-0.1100 {energia=91.0, integridade=100.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=44 id=transferido_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=44 id=transferido_3 emocao=TEDIO bemEstar=-0.7000 recompensa=-0.1100 {energia=90.0, integridade=100.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=45 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=45 id=transferido_3 emocao=TEDIO bemEstar=-0.8100 recompensa=-0.1100 {energia=89.0, integridade=100.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=46 id=transferido_3 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=46 id=transferido_3 emocao=TEDIO bemEstar=-0.9200 recompensa=-0.1100 {energia=88.0, integridade=100.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=47 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=47 id=transferido_3 emocao=TEDIO bemEstar=-1.0300 recompensa=-0.1100 {energia=87.0, integridade=100.0, tedio=90.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=48 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=48 id=transferido_3 emocao=TEDIO bemEstar=-1.1400 recompensa=-0.1100 {energia=86.0, integridade=100.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=49 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=49 id=transferido_3 emocao=TEDIO bemEstar=-1.1500 recompensa=-0.0100 {energia=85.0, integridade=100.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=50 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=50 id=transferido_3 emocao=ALEGRIA bemEstar=-0.8600 recompensa=0.2900 {energia=84.0, integridade=100.0, tedio=70.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=51 id=transferido_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=51 id=transferido_3 emocao=TEDIO bemEstar=-0.9700 recompensa=-0.1100 {energia=83.0, integridade=100.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=52 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=52 id=transferido_3 emocao=ALEGRIA bemEstar=-0.6800 recompensa=0.2900 {energia=82.0, integridade=100.0, tedio=50.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=53 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=53 id=transferido_3 emocao=ALEGRIA bemEstar=-0.3900 recompensa=0.2900 {energia=81.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=54 id=transferido_3 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=54 id=transferido_3 emocao=ALEGRIA bemEstar=-0.2000 recompensa=0.1900 {energia=80.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=55 id=transferido_3 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=55 id=transferido_3 emocao=CALMA bemEstar=-0.3100 recompensa=-0.1100 {energia=79.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=56 id=transferido_3 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=56 id=transferido_3 emocao=CALMA bemEstar=-0.2200 recompensa=0.0900 {energia=78.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=FIM episodio=1 passo=56 id=transferido_3 OBJETIVOS_CONCLUIDOS
+tipo=INICIO episodio=1 passo=0 id=ingenuo_4
+tipo=ACAO episodio=1 passo=1 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=1 id=ingenuo_4 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=2 id=ingenuo_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=2 id=ingenuo_4 emocao=CALMA bemEstar=-0.1200 recompensa=-0.1100 {energia=98.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=3 id=ingenuo_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=3 id=ingenuo_4 emocao=CALMA bemEstar=-0.2300 recompensa=-0.1100 {energia=97.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=4 id=ingenuo_4 ESQUERDA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=4 id=ingenuo_4 emocao=MEDO bemEstar=-0.6250 recompensa=-0.3950 {energia=95.0, integridade=75.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=5 id=ingenuo_4 FRENTE moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=5 id=ingenuo_4 emocao=MEDO bemEstar=-1.0200 recompensa=-0.3950 {energia=93.0, integridade=50.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=6 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=6 id=ingenuo_4 emocao=MEDO bemEstar=-0.8000 recompensa=0.2200 {energia=92.0, integridade=52.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=7 id=ingenuo_4 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=7 id=ingenuo_4 emocao=MEDO bemEstar=-0.6900 recompensa=0.1100 {energia=100.0, integridade=54.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=8 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=8 id=ingenuo_4 emocao=MEDO bemEstar=-0.6700 recompensa=0.0200 {energia=99.0, integridade=56.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=9 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=9 id=ingenuo_4 emocao=MEDO bemEstar=-0.6500 recompensa=0.0200 {energia=98.0, integridade=58.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=10 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=10 id=ingenuo_4 emocao=CALMA bemEstar=-0.7300 recompensa=-0.0800 {energia=97.0, integridade=60.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=11 id=ingenuo_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=11 id=ingenuo_4 emocao=CALMA bemEstar=-0.8100 recompensa=-0.0800 {energia=96.0, integridade=62.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=12 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=12 id=ingenuo_4 emocao=CALMA bemEstar=-0.8900 recompensa=-0.0800 {energia=95.0, integridade=64.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=13 id=ingenuo_4 FRENTE moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=13 id=ingenuo_4 emocao=MEDO bemEstar=-1.2850 recompensa=-0.3950 {energia=93.0, integridade=39.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=14 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=14 id=ingenuo_4 emocao=MEDO bemEstar=-0.9650 recompensa=0.3200 {energia=92.0, integridade=41.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=15 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=15 id=ingenuo_4 emocao=MEDO bemEstar=-0.9450 recompensa=0.0200 {energia=91.0, integridade=43.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=16 id=ingenuo_4 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=16 id=ingenuo_4 emocao=MEDO bemEstar=-0.8250 recompensa=0.1200 {energia=100.0, integridade=45.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=17 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=17 id=ingenuo_4 emocao=MEDO bemEstar=-0.9050 recompensa=-0.0800 {energia=99.0, integridade=47.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=18 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=18 id=ingenuo_4 emocao=MEDO bemEstar=-0.9850 recompensa=-0.0800 {energia=98.0, integridade=49.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=19 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=19 id=ingenuo_4 emocao=MEDO bemEstar=-1.0650 recompensa=-0.0800 {energia=97.0, integridade=51.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=20 id=ingenuo_4 DIREITA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=20 id=ingenuo_4 emocao=MEDO bemEstar=-1.4600 recompensa=-0.3950 {energia=95.0, integridade=26.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=21 id=ingenuo_4 TRAS moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=21 id=ingenuo_4 emocao=MEDO bemEstar=-1.8550 recompensa=-0.3950 {energia=93.0, integridade=1.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=22 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=22 id=ingenuo_4 emocao=MEDO bemEstar=-1.9350 recompensa=-0.0800 {energia=92.0, integridade=3.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=23 id=ingenuo_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=23 id=ingenuo_4 emocao=MEDO bemEstar=-2.0150 recompensa=-0.0800 {energia=91.0, integridade=5.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=24 id=ingenuo_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=24 id=ingenuo_4 emocao=MEDO bemEstar=-2.0950 recompensa=-0.0800 {energia=90.0, integridade=7.0, tedio=60.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=25 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=25 id=ingenuo_4 emocao=MEDO bemEstar=-2.1750 recompensa=-0.0800 {energia=89.0, integridade=9.0, tedio=70.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=26 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=26 id=ingenuo_4 emocao=MEDO bemEstar=-2.2550 recompensa=-0.0800 {energia=88.0, integridade=11.0, tedio=80.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=27 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=27 id=ingenuo_4 emocao=MEDO bemEstar=-2.3350 recompensa=-0.0800 {energia=87.0, integridade=13.0, tedio=90.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=28 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=28 id=ingenuo_4 emocao=MEDO bemEstar=-2.0150 recompensa=0.3200 {energia=86.0, integridade=15.0, tedio=60.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=29 id=ingenuo_4 DIREITA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=29 id=ingenuo_4 emocao=MEDO bemEstar=-2.2600 recompensa=-0.2450 {energia=84.0, integridade=0.0, tedio=60.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=30 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=30 id=ingenuo_4 emocao=MEDO bemEstar=-1.9400 recompensa=0.3200 {energia=83.0, integridade=2.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=31 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=31 id=ingenuo_4 emocao=MEDO bemEstar=-1.6200 recompensa=0.3200 {energia=82.0, integridade=4.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=32 id=ingenuo_4 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=32 id=ingenuo_4 emocao=MEDO bemEstar=-1.4500 recompensa=0.1700 {energia=96.0, integridade=6.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=33 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=33 id=ingenuo_4 emocao=MEDO bemEstar=-1.4300 recompensa=0.0200 {energia=95.0, integridade=8.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=34 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=34 id=ingenuo_4 emocao=MEDO bemEstar=-1.4100 recompensa=0.0200 {energia=94.0, integridade=10.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=35 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=35 id=ingenuo_4 emocao=MEDO bemEstar=-1.3900 recompensa=0.0200 {energia=93.0, integridade=12.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=36 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=36 id=ingenuo_4 emocao=MEDO bemEstar=-1.3700 recompensa=0.0200 {energia=92.0, integridade=14.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=37 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=37 id=ingenuo_4 emocao=MEDO bemEstar=-1.4500 recompensa=-0.0800 {energia=91.0, integridade=16.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=38 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=38 id=ingenuo_4 emocao=MEDO bemEstar=-1.5300 recompensa=-0.0800 {energia=90.0, integridade=18.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=39 id=ingenuo_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=39 id=ingenuo_4 emocao=MEDO bemEstar=-1.6100 recompensa=-0.0800 {energia=89.0, integridade=20.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=40 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=40 id=ingenuo_4 emocao=MEDO bemEstar=-1.6900 recompensa=-0.0800 {energia=88.0, integridade=22.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=41 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=41 id=ingenuo_4 emocao=MEDO bemEstar=-1.7700 recompensa=-0.0800 {energia=87.0, integridade=24.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=42 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=42 id=ingenuo_4 emocao=MEDO bemEstar=-1.8500 recompensa=-0.0800 {energia=86.0, integridade=26.0, tedio=60.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=43 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=43 id=ingenuo_4 emocao=MEDO bemEstar=-1.9300 recompensa=-0.0800 {energia=85.0, integridade=28.0, tedio=70.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=44 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=44 id=ingenuo_4 emocao=MEDO bemEstar=-1.6100 recompensa=0.3200 {energia=84.0, integridade=30.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=45 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=45 id=ingenuo_4 emocao=MEDO bemEstar=-1.2900 recompensa=0.3200 {energia=83.0, integridade=32.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=46 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=46 id=ingenuo_4 emocao=MEDO bemEstar=-1.1700 recompensa=0.1200 {energia=82.0, integridade=34.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=47 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=47 id=ingenuo_4 emocao=MEDO bemEstar=-1.1500 recompensa=0.0200 {energia=81.0, integridade=36.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=48 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=48 id=ingenuo_4 emocao=MEDO bemEstar=-1.1300 recompensa=0.0200 {energia=80.0, integridade=38.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=49 id=ingenuo_4 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=49 id=ingenuo_4 emocao=MEDO bemEstar=-0.9600 recompensa=0.1700 {energia=94.0, integridade=40.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=50 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=50 id=ingenuo_4 emocao=MEDO bemEstar=-0.9400 recompensa=0.0200 {energia=93.0, integridade=42.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=51 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=51 id=ingenuo_4 emocao=MEDO bemEstar=-0.9200 recompensa=0.0200 {energia=92.0, integridade=44.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=52 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=52 id=ingenuo_4 emocao=MEDO bemEstar=-0.9000 recompensa=0.0200 {energia=91.0, integridade=46.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=53 id=ingenuo_4 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=53 id=ingenuo_4 emocao=MEDO bemEstar=-0.7800 recompensa=0.1200 {energia=100.0, integridade=48.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=54 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=54 id=ingenuo_4 emocao=MEDO bemEstar=-0.7600 recompensa=0.0200 {energia=99.0, integridade=50.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=55 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=55 id=ingenuo_4 emocao=MEDO bemEstar=-0.7400 recompensa=0.0200 {energia=98.0, integridade=52.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=56 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=56 id=ingenuo_4 emocao=MEDO bemEstar=-0.7200 recompensa=0.0200 {energia=97.0, integridade=54.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=57 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=57 id=ingenuo_4 emocao=MEDO bemEstar=-0.7000 recompensa=0.0200 {energia=96.0, integridade=56.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=58 id=ingenuo_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=58 id=ingenuo_4 emocao=MEDO bemEstar=-0.7800 recompensa=-0.0800 {energia=95.0, integridade=58.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=59 id=ingenuo_4 DIREITA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=59 id=ingenuo_4 emocao=MEDO bemEstar=-1.1750 recompensa=-0.3950 {energia=93.0, integridade=33.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=60 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=60 id=ingenuo_4 emocao=MEDO bemEstar=-1.2550 recompensa=-0.0800 {energia=92.0, integridade=35.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=61 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=61 id=ingenuo_4 emocao=MEDO bemEstar=-1.0350 recompensa=0.2200 {energia=91.0, integridade=37.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=62 id=ingenuo_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=62 id=ingenuo_4 emocao=MEDO bemEstar=-1.1150 recompensa=-0.0800 {energia=90.0, integridade=39.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=63 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=63 id=ingenuo_4 emocao=MEDO bemEstar=-1.1950 recompensa=-0.0800 {energia=89.0, integridade=41.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=64 id=ingenuo_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=64 id=ingenuo_4 emocao=MEDO bemEstar=-1.2750 recompensa=-0.0800 {energia=88.0, integridade=43.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=65 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=65 id=ingenuo_4 emocao=MEDO bemEstar=-1.3550 recompensa=-0.0800 {energia=87.0, integridade=45.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=66 id=ingenuo_4 ESQUERDA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=66 id=ingenuo_4 emocao=MEDO bemEstar=-1.7500 recompensa=-0.3950 {energia=85.0, integridade=20.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=67 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=67 id=ingenuo_4 emocao=MEDO bemEstar=-1.8300 recompensa=-0.0800 {energia=84.0, integridade=22.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=68 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=68 id=ingenuo_4 emocao=MEDO bemEstar=-1.5100 recompensa=0.3200 {energia=83.0, integridade=24.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=69 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=69 id=ingenuo_4 emocao=MEDO bemEstar=-1.5900 recompensa=-0.0800 {energia=82.0, integridade=26.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=70 id=ingenuo_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=70 id=ingenuo_4 emocao=MEDO bemEstar=-1.6700 recompensa=-0.0800 {energia=81.0, integridade=28.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=71 id=ingenuo_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=71 id=ingenuo_4 emocao=MEDO bemEstar=-1.7500 recompensa=-0.0800 {energia=80.0, integridade=30.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=72 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=72 id=ingenuo_4 emocao=MEDO bemEstar=-1.8300 recompensa=-0.0800 {energia=79.0, integridade=32.0, tedio=60.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=73 id=ingenuo_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=73 id=ingenuo_4 emocao=MEDO bemEstar=-1.9100 recompensa=-0.0800 {energia=78.0, integridade=34.0, tedio=70.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=74 id=ingenuo_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=74 id=ingenuo_4 emocao=MEDO bemEstar=-1.5900 recompensa=0.3200 {energia=77.0, integridade=36.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=FIM episodio=1 passo=74 id=ingenuo_4 OBJETIVOS_CONCLUIDOS
+tipo=INICIO episodio=1 passo=0 id=transferido_4
+tipo=ACAO episodio=1 passo=1 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=1 id=transferido_4 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=2 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=2 id=transferido_4 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=3 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=3 id=transferido_4 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=4 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=4 id=transferido_4 emocao=CALMA bemEstar=-0.0400 recompensa=-0.0100 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=5 id=transferido_4 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=5 id=transferido_4 emocao=CALMA bemEstar=-0.0000 recompensa=0.0400 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=6 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=6 id=transferido_4 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=7 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=7 id=transferido_4 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=8 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=8 id=transferido_4 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=9 id=transferido_4 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=9 id=transferido_4 emocao=CALMA bemEstar=-0.0000 recompensa=0.0300 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=10 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=10 id=transferido_4 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=11 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=11 id=transferido_4 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=12 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=12 id=transferido_4 emocao=CALMA bemEstar=-0.1300 recompensa=-0.1100 {energia=97.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=13 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=13 id=transferido_4 emocao=CALMA bemEstar=-0.2400 recompensa=-0.1100 {energia=96.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=14 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=14 id=transferido_4 emocao=CALMA bemEstar=-0.3500 recompensa=-0.1100 {energia=95.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=15 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=15 id=transferido_4 emocao=CALMA bemEstar=-0.4600 recompensa=-0.1100 {energia=94.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=16 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=16 id=transferido_4 emocao=TEDIO bemEstar=-0.5700 recompensa=-0.1100 {energia=93.0, integridade=100.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=17 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=17 id=transferido_4 emocao=TEDIO bemEstar=-0.6800 recompensa=-0.1100 {energia=92.0, integridade=100.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=18 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=18 id=transferido_4 emocao=TEDIO bemEstar=-0.7900 recompensa=-0.1100 {energia=91.0, integridade=100.0, tedio=70.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=19 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=19 id=transferido_4 emocao=TEDIO bemEstar=-0.9000 recompensa=-0.1100 {energia=90.0, integridade=100.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=20 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=20 id=transferido_4 emocao=ALEGRIA bemEstar=-0.6100 recompensa=0.2900 {energia=89.0, integridade=100.0, tedio=50.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=21 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=21 id=transferido_4 emocao=ALEGRIA bemEstar=-0.3200 recompensa=0.2900 {energia=88.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=22 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=22 id=transferido_4 emocao=CALMA bemEstar=-0.4300 recompensa=-0.1100 {energia=87.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=23 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=23 id=transferido_4 emocao=ALEGRIA bemEstar=-0.1400 recompensa=0.2900 {energia=86.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=24 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=24 id=transferido_4 emocao=CALMA bemEstar=-0.1500 recompensa=-0.0100 {energia=85.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=25 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=25 id=transferido_4 emocao=CALMA bemEstar=-0.1600 recompensa=-0.0100 {energia=84.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=26 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=26 id=transferido_4 emocao=CALMA bemEstar=-0.1700 recompensa=-0.0100 {energia=83.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=27 id=transferido_4 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=27 id=transferido_4 emocao=CALMA bemEstar=-0.0300 recompensa=0.1400 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=28 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=28 id=transferido_4 emocao=CALMA bemEstar=-0.0400 recompensa=-0.0100 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=29 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=29 id=transferido_4 emocao=CALMA bemEstar=-0.0500 recompensa=-0.0100 {energia=95.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=30 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=30 id=transferido_4 emocao=CALMA bemEstar=-0.0600 recompensa=-0.0100 {energia=94.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=31 id=transferido_4 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=31 id=transferido_4 emocao=CALMA bemEstar=-0.0000 recompensa=0.0600 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=32 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=32 id=transferido_4 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=33 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=33 id=transferido_4 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=34 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=34 id=transferido_4 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=35 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=35 id=transferido_4 emocao=CALMA bemEstar=-0.1400 recompensa=-0.1100 {energia=96.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=36 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=36 id=transferido_4 emocao=CALMA bemEstar=-0.2500 recompensa=-0.1100 {energia=95.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=37 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=37 id=transferido_4 emocao=CALMA bemEstar=-0.3600 recompensa=-0.1100 {energia=94.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=38 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=38 id=transferido_4 emocao=CALMA bemEstar=-0.4700 recompensa=-0.1100 {energia=93.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=39 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=39 id=transferido_4 emocao=TEDIO bemEstar=-0.5800 recompensa=-0.1100 {energia=92.0, integridade=100.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=40 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=40 id=transferido_4 emocao=TEDIO bemEstar=-0.6900 recompensa=-0.1100 {energia=91.0, integridade=100.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=41 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=41 id=transferido_4 emocao=TEDIO bemEstar=-0.8000 recompensa=-0.1100 {energia=90.0, integridade=100.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=42 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=42 id=transferido_4 emocao=TEDIO bemEstar=-0.9100 recompensa=-0.1100 {energia=89.0, integridade=100.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=43 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=43 id=transferido_4 emocao=ALEGRIA bemEstar=-0.6200 recompensa=0.2900 {energia=88.0, integridade=100.0, tedio=50.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=44 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=44 id=transferido_4 emocao=TEDIO bemEstar=-0.7300 recompensa=-0.1100 {energia=87.0, integridade=100.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=45 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=45 id=transferido_4 emocao=TEDIO bemEstar=-0.8400 recompensa=-0.1100 {energia=86.0, integridade=100.0, tedio=70.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=46 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=46 id=transferido_4 emocao=TEDIO bemEstar=-0.9500 recompensa=-0.1100 {energia=85.0, integridade=100.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=47 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=47 id=transferido_4 emocao=ALEGRIA bemEstar=-0.6600 recompensa=0.2900 {energia=84.0, integridade=100.0, tedio=50.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=48 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=48 id=transferido_4 emocao=ALEGRIA bemEstar=-0.3700 recompensa=0.2900 {energia=83.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=49 id=transferido_4 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=49 id=transferido_4 emocao=ALEGRIA bemEstar=-0.1800 recompensa=0.1900 {energia=82.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=50 id=transferido_4 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=50 id=transferido_4 emocao=CALMA bemEstar=-0.2900 recompensa=-0.1100 {energia=81.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=51 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=51 id=transferido_4 emocao=CALMA bemEstar=-0.2000 recompensa=0.0900 {energia=80.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=52 id=transferido_4 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=52 id=transferido_4 emocao=CALMA bemEstar=-0.2100 recompensa=-0.0100 {energia=79.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=53 id=transferido_4 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=53 id=transferido_4 emocao=CALMA bemEstar=-0.2200 recompensa=-0.0100 {energia=78.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=54 id=transferido_4 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=54 id=transferido_4 emocao=CALMA bemEstar=-0.0800 recompensa=0.1400 {energia=92.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=FIM episodio=1 passo=54 id=transferido_4 OBJETIVOS_CONCLUIDOS
+tipo=INICIO episodio=1 passo=0 id=ingenuo_5
+tipo=ACAO episodio=1 passo=1 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=1 id=ingenuo_5 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=2 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=2 id=ingenuo_5 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=3 id=ingenuo_5 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=3 id=ingenuo_5 emocao=CALMA bemEstar=-0.0000 recompensa=0.0200 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=4 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=4 id=ingenuo_5 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=5 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=5 id=ingenuo_5 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=6 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=6 id=ingenuo_5 emocao=CALMA bemEstar=-0.1300 recompensa=-0.1100 {energia=97.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=7 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=7 id=ingenuo_5 emocao=CALMA bemEstar=-0.2400 recompensa=-0.1100 {energia=96.0, integridade=100.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=8 id=ingenuo_5 DIREITA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=8 id=ingenuo_5 emocao=MEDO bemEstar=-0.6350 recompensa=-0.3950 {energia=94.0, integridade=75.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=9 id=ingenuo_5 TRAS moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=9 id=ingenuo_5 emocao=MEDO bemEstar=-1.0300 recompensa=-0.3950 {energia=92.0, integridade=50.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=10 id=ingenuo_5 FRENTE moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=10 id=ingenuo_5 emocao=MEDO bemEstar=-1.4250 recompensa=-0.3950 {energia=90.0, integridade=25.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=11 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=11 id=ingenuo_5 emocao=MEDO bemEstar=-1.5050 recompensa=-0.0800 {energia=89.0, integridade=27.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=12 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=12 id=ingenuo_5 emocao=MEDO bemEstar=-1.5850 recompensa=-0.0800 {energia=88.0, integridade=29.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=13 id=ingenuo_5 ESQUERDA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=13 id=ingenuo_5 emocao=MEDO bemEstar=-1.9800 recompensa=-0.3950 {energia=86.0, integridade=4.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=14 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=14 id=ingenuo_5 emocao=MEDO bemEstar=-2.0600 recompensa=-0.0800 {energia=85.0, integridade=6.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=15 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=15 id=ingenuo_5 emocao=MEDO bemEstar=-2.1400 recompensa=-0.0800 {energia=84.0, integridade=8.0, tedio=60.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=16 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=16 id=ingenuo_5 emocao=MEDO bemEstar=-1.8200 recompensa=0.3200 {energia=83.0, integridade=10.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=17 id=ingenuo_5 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=17 id=ingenuo_5 emocao=MEDO bemEstar=-1.6500 recompensa=0.1700 {energia=97.0, integridade=12.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=18 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=18 id=ingenuo_5 emocao=MEDO bemEstar=-1.3300 recompensa=0.3200 {energia=96.0, integridade=14.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=19 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=19 id=ingenuo_5 emocao=MEDO bemEstar=-1.4100 recompensa=-0.0800 {energia=95.0, integridade=16.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=20 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=20 id=ingenuo_5 emocao=MEDO bemEstar=-1.2900 recompensa=0.1200 {energia=94.0, integridade=18.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=21 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=21 id=ingenuo_5 emocao=MEDO bemEstar=-1.2700 recompensa=0.0200 {energia=93.0, integridade=20.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=22 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=22 id=ingenuo_5 emocao=MEDO bemEstar=-1.2500 recompensa=0.0200 {energia=92.0, integridade=22.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=23 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=23 id=ingenuo_5 emocao=MEDO bemEstar=-1.2300 recompensa=0.0200 {energia=91.0, integridade=24.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=24 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=24 id=ingenuo_5 emocao=MEDO bemEstar=-1.3100 recompensa=-0.0800 {energia=90.0, integridade=26.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=25 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=25 id=ingenuo_5 emocao=MEDO bemEstar=-1.1900 recompensa=0.1200 {energia=89.0, integridade=28.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=26 id=ingenuo_5 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=26 id=ingenuo_5 emocao=MEDO bemEstar=-1.0500 recompensa=0.1400 {energia=100.0, integridade=30.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=27 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=27 id=ingenuo_5 emocao=MEDO bemEstar=-1.0300 recompensa=0.0200 {energia=99.0, integridade=32.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=28 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=28 id=ingenuo_5 emocao=MEDO bemEstar=-1.0100 recompensa=0.0200 {energia=98.0, integridade=34.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=29 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=29 id=ingenuo_5 emocao=MEDO bemEstar=-1.0900 recompensa=-0.0800 {energia=97.0, integridade=36.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=30 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=30 id=ingenuo_5 emocao=MEDO bemEstar=-0.9700 recompensa=0.1200 {energia=96.0, integridade=38.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=31 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=31 id=ingenuo_5 emocao=MEDO bemEstar=-0.9500 recompensa=0.0200 {energia=95.0, integridade=40.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=32 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=32 id=ingenuo_5 emocao=MEDO bemEstar=-1.0300 recompensa=-0.0800 {energia=94.0, integridade=42.0, tedio=10.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=33 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=33 id=ingenuo_5 emocao=MEDO bemEstar=-1.1100 recompensa=-0.0800 {energia=93.0, integridade=44.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=34 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=34 id=ingenuo_5 emocao=MEDO bemEstar=-1.1900 recompensa=-0.0800 {energia=92.0, integridade=46.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=35 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=35 id=ingenuo_5 emocao=MEDO bemEstar=-1.2700 recompensa=-0.0800 {energia=91.0, integridade=48.0, tedio=40.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=36 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=36 id=ingenuo_5 emocao=MEDO bemEstar=-1.3500 recompensa=-0.0800 {energia=90.0, integridade=50.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=37 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=37 id=ingenuo_5 emocao=MEDO bemEstar=-1.4300 recompensa=-0.0800 {energia=89.0, integridade=52.0, tedio=60.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=38 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=38 id=ingenuo_5 emocao=MEDO bemEstar=-1.5100 recompensa=-0.0800 {energia=88.0, integridade=54.0, tedio=70.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=39 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=39 id=ingenuo_5 emocao=MEDO bemEstar=-1.5900 recompensa=-0.0800 {energia=87.0, integridade=56.0, tedio=80.0, temperatura=0.05, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=40 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=40 id=ingenuo_5 emocao=MEDO bemEstar=-1.2700 recompensa=0.3200 {energia=86.0, integridade=58.0, tedio=50.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=41 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=41 id=ingenuo_5 emocao=ALEGRIA bemEstar=-0.9500 recompensa=0.3200 {energia=85.0, integridade=60.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=42 id=ingenuo_5 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=42 id=ingenuo_5 emocao=ALEGRIA bemEstar=-0.7800 recompensa=0.1700 {energia=99.0, integridade=62.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=43 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=43 id=ingenuo_5 emocao=ALEGRIA bemEstar=-0.5600 recompensa=0.2200 {energia=98.0, integridade=64.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=44 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=44 id=ingenuo_5 emocao=CALMA bemEstar=-0.5400 recompensa=0.0200 {energia=97.0, integridade=66.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=45 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=45 id=ingenuo_5 emocao=CALMA bemEstar=-0.5200 recompensa=0.0200 {energia=96.0, integridade=68.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=46 id=ingenuo_5 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=46 id=ingenuo_5 emocao=CALMA bemEstar=-0.4500 recompensa=0.0700 {energia=100.0, integridade=70.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=47 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=47 id=ingenuo_5 emocao=CALMA bemEstar=-0.4300 recompensa=0.0200 {energia=99.0, integridade=72.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=48 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=48 id=ingenuo_5 emocao=CALMA bemEstar=-0.4100 recompensa=0.0200 {energia=98.0, integridade=74.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=49 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=49 id=ingenuo_5 emocao=CALMA bemEstar=-0.3900 recompensa=0.0200 {energia=97.0, integridade=76.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=50 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=50 id=ingenuo_5 emocao=CALMA bemEstar=-0.4700 recompensa=-0.0800 {energia=96.0, integridade=78.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=51 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=51 id=ingenuo_5 emocao=CALMA bemEstar=-0.5500 recompensa=-0.0800 {energia=95.0, integridade=80.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=52 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=52 id=ingenuo_5 emocao=CALMA bemEstar=-0.6300 recompensa=-0.0800 {energia=94.0, integridade=82.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=53 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=53 id=ingenuo_5 emocao=CALMA bemEstar=-0.7100 recompensa=-0.0800 {energia=93.0, integridade=84.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=54 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=54 id=ingenuo_5 emocao=TEDIO bemEstar=-0.7900 recompensa=-0.0800 {energia=92.0, integridade=86.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=55 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=55 id=ingenuo_5 emocao=TEDIO bemEstar=-0.8700 recompensa=-0.0800 {energia=91.0, integridade=88.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=56 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=56 id=ingenuo_5 emocao=TEDIO bemEstar=-0.9500 recompensa=-0.0800 {energia=90.0, integridade=90.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=57 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=57 id=ingenuo_5 emocao=TEDIO bemEstar=-1.0300 recompensa=-0.0800 {energia=89.0, integridade=92.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=58 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=58 id=ingenuo_5 emocao=TEDIO bemEstar=-1.1100 recompensa=-0.0800 {energia=88.0, integridade=94.0, tedio=90.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=59 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=59 id=ingenuo_5 emocao=TEDIO bemEstar=-1.1900 recompensa=-0.0800 {energia=87.0, integridade=96.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=60 id=ingenuo_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=60 id=ingenuo_5 emocao=ALEGRIA bemEstar=-0.8700 recompensa=0.3200 {energia=86.0, integridade=98.0, tedio=70.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=61 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=61 id=ingenuo_5 emocao=TEDIO bemEstar=-0.9500 recompensa=-0.0800 {energia=85.0, integridade=100.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=62 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=62 id=ingenuo_5 emocao=TEDIO bemEstar=-1.0600 recompensa=-0.1100 {energia=84.0, integridade=100.0, tedio=90.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=63 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=63 id=ingenuo_5 emocao=TEDIO bemEstar=-1.1700 recompensa=-0.1100 {energia=83.0, integridade=100.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=64 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=64 id=ingenuo_5 emocao=ALEGRIA bemEstar=-0.8800 recompensa=0.2900 {energia=82.0, integridade=100.0, tedio=70.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=65 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=65 id=ingenuo_5 emocao=TEDIO bemEstar=-0.9900 recompensa=-0.1100 {energia=81.0, integridade=100.0, tedio=80.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=66 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=66 id=ingenuo_5 emocao=TEDIO bemEstar=-1.1000 recompensa=-0.1100 {energia=80.0, integridade=100.0, tedio=90.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=67 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=67 id=ingenuo_5 emocao=ALEGRIA bemEstar=-0.8100 recompensa=0.2900 {energia=79.0, integridade=100.0, tedio=60.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=68 id=ingenuo_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=68 id=ingenuo_5 emocao=ALEGRIA bemEstar=-0.5200 recompensa=0.2900 {energia=78.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=69 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=69 id=ingenuo_5 emocao=CALMA bemEstar=-0.6300 recompensa=-0.1100 {energia=77.0, integridade=100.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=70 id=ingenuo_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=70 id=ingenuo_5 emocao=TEDIO bemEstar=-0.7400 recompensa=-0.1100 {energia=76.0, integridade=100.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=71 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=71 id=ingenuo_5 emocao=TEDIO bemEstar=-0.8500 recompensa=-0.1100 {energia=75.0, integridade=100.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=72 id=ingenuo_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=72 id=ingenuo_5 emocao=ALEGRIA bemEstar=-0.5600 recompensa=0.2900 {energia=74.0, integridade=100.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=FIM episodio=1 passo=72 id=ingenuo_5 OBJETIVOS_CONCLUIDOS
+tipo=INICIO episodio=1 passo=0 id=transferido_5
+tipo=ACAO episodio=1 passo=1 id=transferido_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=1 id=transferido_5 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=2 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=2 id=transferido_5 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=3 id=transferido_5 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=3 id=transferido_5 emocao=CALMA bemEstar=-0.0000 recompensa=0.0200 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=4 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=4 id=transferido_5 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=5 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=5 id=transferido_5 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=6 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=6 id=transferido_5 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=7 id=transferido_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=7 id=transferido_5 emocao=CALMA bemEstar=-0.0400 recompensa=-0.0100 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=8 id=transferido_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=8 id=transferido_5 emocao=CALMA bemEstar=-0.0500 recompensa=-0.0100 {energia=95.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=9 id=transferido_5 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=9 id=transferido_5 emocao=CALMA bemEstar=-0.0000 recompensa=0.0500 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=10 id=transferido_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=10 id=transferido_5 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=11 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=11 id=transferido_5 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=12 id=transferido_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=12 id=transferido_5 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=13 id=transferido_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=13 id=transferido_5 emocao=CALMA bemEstar=-0.0400 recompensa=-0.0100 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=14 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=14 id=transferido_5 emocao=CALMA bemEstar=-0.0500 recompensa=-0.0100 {energia=95.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=15 id=transferido_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=15 id=transferido_5 emocao=CALMA bemEstar=-0.0600 recompensa=-0.0100 {energia=94.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=16 id=transferido_5 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=16 id=transferido_5 emocao=CALMA bemEstar=-0.0000 recompensa=0.0600 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=17 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=17 id=transferido_5 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=18 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=18 id=transferido_5 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=19 id=transferido_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=19 id=transferido_5 emocao=CALMA bemEstar=-0.1300 recompensa=-0.1100 {energia=97.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=20 id=transferido_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=20 id=transferido_5 emocao=CALMA bemEstar=-0.0400 recompensa=0.0900 {energia=96.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=21 id=transferido_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=21 id=transferido_5 emocao=CALMA bemEstar=-0.0500 recompensa=-0.0100 {energia=95.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=22 id=transferido_5 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=22 id=transferido_5 emocao=CALMA bemEstar=-0.0000 recompensa=0.0500 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=23 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=23 id=transferido_5 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=24 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=24 id=transferido_5 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=25 id=transferido_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=25 id=transferido_5 emocao=CALMA bemEstar=-0.0300 recompensa=-0.0100 {energia=97.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=26 id=transferido_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=26 id=transferido_5 emocao=CALMA bemEstar=-0.1400 recompensa=-0.1100 {energia=96.0, integridade=100.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=27 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=27 id=transferido_5 emocao=CALMA bemEstar=-0.0500 recompensa=0.0900 {energia=95.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=28 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=28 id=transferido_5 emocao=CALMA bemEstar=-0.0600 recompensa=-0.0100 {energia=94.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=29 id=transferido_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=29 id=transferido_5 emocao=CALMA bemEstar=-0.0700 recompensa=-0.0100 {energia=93.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=30 id=transferido_5 RECOLHER moveu=false colidiu=false pedra=true
+tipo=ESTADO episodio=1 passo=30 id=transferido_5 emocao=CALMA bemEstar=-0.0000 recompensa=0.0700 {energia=100.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=31 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=31 id=transferido_5 emocao=CALMA bemEstar=-0.0100 recompensa=-0.0100 {energia=99.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=32 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=32 id=transferido_5 emocao=CALMA bemEstar=-0.0200 recompensa=-0.0100 {energia=98.0, integridade=100.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=33 id=transferido_5 ESQUERDA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=33 id=transferido_5 emocao=MEDO bemEstar=-0.4150 recompensa=-0.3950 {energia=96.0, integridade=75.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=34 id=transferido_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=34 id=transferido_5 emocao=CALMA bemEstar=-0.4950 recompensa=-0.0800 {energia=95.0, integridade=77.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=35 id=transferido_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=35 id=transferido_5 emocao=CALMA bemEstar=-0.5750 recompensa=-0.0800 {energia=94.0, integridade=79.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=36 id=transferido_5 ESQUERDA moveu=false colidiu=true pedra=false
+tipo=ESTADO episodio=1 passo=36 id=transferido_5 emocao=MEDO bemEstar=-0.9700 recompensa=-0.3950 {energia=92.0, integridade=54.0, tedio=20.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=37 id=transferido_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=37 id=transferido_5 emocao=MEDO bemEstar=-1.0500 recompensa=-0.0800 {energia=91.0, integridade=56.0, tedio=30.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=38 id=transferido_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=38 id=transferido_5 emocao=MEDO bemEstar=-0.7300 recompensa=0.3200 {energia=90.0, integridade=58.0, tedio=0.0, temperatura=0.05, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=39 id=transferido_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=39 id=transferido_5 emocao=CALMA bemEstar=-0.7100 recompensa=0.0200 {energia=89.0, integridade=60.0, tedio=0.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=40 id=transferido_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=40 id=transferido_5 emocao=CALMA bemEstar=-0.7900 recompensa=-0.0800 {energia=88.0, integridade=62.0, tedio=10.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=41 id=transferido_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=41 id=transferido_5 emocao=CALMA bemEstar=-0.8700 recompensa=-0.0800 {energia=87.0, integridade=64.0, tedio=20.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=42 id=transferido_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=42 id=transferido_5 emocao=CALMA bemEstar=-0.9500 recompensa=-0.0800 {energia=86.0, integridade=66.0, tedio=30.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=43 id=transferido_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=43 id=transferido_5 emocao=CALMA bemEstar=-1.0300 recompensa=-0.0800 {energia=85.0, integridade=68.0, tedio=40.0, temperatura=0.1, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=44 id=transferido_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=44 id=transferido_5 emocao=TEDIO bemEstar=-1.1100 recompensa=-0.0800 {energia=84.0, integridade=70.0, tedio=50.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=45 id=transferido_5 DIREITA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=45 id=transferido_5 emocao=TEDIO bemEstar=-1.1900 recompensa=-0.0800 {energia=83.0, integridade=72.0, tedio=60.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=46 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=46 id=transferido_5 emocao=TEDIO bemEstar=-1.2700 recompensa=-0.0800 {energia=82.0, integridade=74.0, tedio=70.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=47 id=transferido_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=47 id=transferido_5 emocao=TEDIO bemEstar=-1.3500 recompensa=-0.0800 {energia=81.0, integridade=76.0, tedio=80.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=48 id=transferido_5 ESQUERDA moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=48 id=transferido_5 emocao=TEDIO bemEstar=-1.4300 recompensa=-0.0800 {energia=80.0, integridade=78.0, tedio=90.0, temperatura=0.3, deliberacao=0.0}
+tipo=ACAO episodio=1 passo=49 id=transferido_5 TRAS moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=49 id=transferido_5 emocao=TEDIO bemEstar=-1.5100 recompensa=-0.0800 {energia=79.0, integridade=80.0, tedio=100.0, temperatura=0.3, deliberacao=1.0}
+tipo=ACAO episodio=1 passo=50 id=transferido_5 FRENTE moveu=true colidiu=false pedra=false
+tipo=ESTADO episodio=1 passo=50 id=transferido_5 emocao=ALEGRIA bemEstar=-1.1900 recompensa=0.3200 {energia=78.0, integridade=82.0, tedio=70.0, temperatura=0.1, deliberacao=0.0}
+tipo=FIM episodio=1 passo=50 id=transferido_5 OBJETIVOS_CONCLUIDOS

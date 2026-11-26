@@ -1,0 +1,893 @@
+{
+  "treino_primeiros5": {
+    "passos": {
+      "media": 64.2,
+      "dp": 6.664583007710735
+    },
+    "colisoes": {
+      "media": 2.72,
+      "dp": 2.1702534414210706
+    },
+    "cobertura": {
+      "media": 100.0,
+      "dp": 0.0
+    },
+    "pedras": {
+      "media": 5.0,
+      "dp": 0.0
+    },
+    "revisitas": {
+      "media": 28.48,
+      "dp": 5.7236352085016735
+    },
+    "energia_final": {
+      "media": 79.24,
+      "dp": 9.850042301093602
+    }
+  },
+  "treino_ultimos5": {
+    "passos": {
+      "media": 62.8,
+      "dp": 5.787918451395113
+    },
+    "colisoes": {
+      "media": 1.12,
+      "dp": 0.971253485622231
+    },
+    "cobertura": {
+      "media": 100.0,
+      "dp": 0.0
+    },
+    "pedras": {
+      "media": 5.0,
+      "dp": 0.0
+    },
+    "revisitas": {
+      "media": 28.68,
+      "dp": 5.984145720150872
+    },
+    "energia_final": {
+      "media": 77.92,
+      "dp": 8.533854150773065
+    }
+  },
+  "transferencia": {
+    "ingenuo": {
+      "passos": {
+        "media": 67.4,
+        "dp": 5.639148871948674
+      },
+      "colisoes": {
+        "media": 5.6,
+        "dp": 1.51657508881031
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 28.8,
+        "dp": 5.495452665613635
+      },
+      "energia_final": {
+        "media": 81.0,
+        "dp": 10.559356040971437
+      }
+    },
+    "transferido": {
+      "passos": {
+        "media": 58.0,
+        "dp": 7.615773105863909
+      },
+      "colisoes": {
+        "media": 0.8,
+        "dp": 1.0954451150103321
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 24.2,
+        "dp": 8.07465169527454
+      },
+      "energia_final": {
+        "media": 78.4,
+        "dp": 8.294576541331088
+      }
+    }
+  },
+  "episodios": {
+    "1": {
+      "passos": {
+        "media": 70.6,
+        "dp": 3.9115214431215892
+      },
+      "colisoes": {
+        "media": 5.8,
+        "dp": 1.6431676725154984
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 31.8,
+        "dp": 3.3466401061363023
+      },
+      "energia_final": {
+        "media": 83.2,
+        "dp": 4.658325879540846
+      }
+    },
+    "2": {
+      "passos": {
+        "media": 65.2,
+        "dp": 6.3796551630946325
+      },
+      "colisoes": {
+        "media": 3.6,
+        "dp": 1.140175425099138
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 28.6,
+        "dp": 6.542170893518451
+      },
+      "energia_final": {
+        "media": 82.4,
+        "dp": 3.1304951684997055
+      }
+    },
+    "3": {
+      "passos": {
+        "media": 66.0,
+        "dp": 5.958187643906492
+      },
+      "colisoes": {
+        "media": 2.0,
+        "dp": 1.224744871391589
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 31.0,
+        "dp": 5.291502622129181
+      },
+      "energia_final": {
+        "media": 72.8,
+        "dp": 12.275992831539126
+      }
+    },
+    "4": {
+      "passos": {
+        "media": 58.2,
+        "dp": 5.06951674225463
+      },
+      "colisoes": {
+        "media": 1.8,
+        "dp": 0.8366600265340756
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 23.4,
+        "dp": 5.176871642217914
+      },
+      "energia_final": {
+        "media": 77.2,
+        "dp": 9.757048734120374
+      }
+    },
+    "5": {
+      "passos": {
+        "media": 61.0,
+        "dp": 5.916079783099616
+      },
+      "colisoes": {
+        "media": 0.4,
+        "dp": 0.8944271909999159
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 27.6,
+        "dp": 5.727128425310541
+      },
+      "energia_final": {
+        "media": 80.6,
+        "dp": 14.604793733565701
+      }
+    },
+    "6": {
+      "passos": {
+        "media": 64.0,
+        "dp": 6.819090848492928
+      },
+      "colisoes": {
+        "media": 0.8,
+        "dp": 0.8366600265340756
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 30.2,
+        "dp": 6.099180272790763
+      },
+      "energia_final": {
+        "media": 76.0,
+        "dp": 7.905694150420948
+      }
+    },
+    "7": {
+      "passos": {
+        "media": 60.8,
+        "dp": 7.293833011524188
+      },
+      "colisoes": {
+        "media": 0.4,
+        "dp": 0.8944271909999159
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 27.4,
+        "dp": 7.26636084983398
+      },
+      "energia_final": {
+        "media": 79.0,
+        "dp": 6.363961030678928
+      }
+    },
+    "8": {
+      "passos": {
+        "media": 65.0,
+        "dp": 6.6332495807108
+      },
+      "colisoes": {
+        "media": 0.4,
+        "dp": 0.8944271909999159
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 31.6,
+        "dp": 6.913754406977442
+      },
+      "energia_final": {
+        "media": 73.6,
+        "dp": 7.733045971672482
+      }
+    },
+    "9": {
+      "passos": {
+        "media": 61.6,
+        "dp": 5.9413803110051795
+      },
+      "colisoes": {
+        "media": 1.6,
+        "dp": 1.51657508881031
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 27.0,
+        "dp": 6.6332495807108
+      },
+      "energia_final": {
+        "media": 78.0,
+        "dp": 6.6332495807108
+      }
+    },
+    "10": {
+      "passos": {
+        "media": 59.2,
+        "dp": 4.381780460041329
+      },
+      "colisoes": {
+        "media": 1.2,
+        "dp": 0.4472135954999579
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 25.0,
+        "dp": 4.69041575982343
+      },
+      "energia_final": {
+        "media": 78.4,
+        "dp": 9.989994994993742
+      }
+    },
+    "11": {
+      "passos": {
+        "media": 64.2,
+        "dp": 6.260990336999411
+      },
+      "colisoes": {
+        "media": 0.6,
+        "dp": 0.8944271909999159
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 30.6,
+        "dp": 6.6932802122726045
+      },
+      "energia_final": {
+        "media": 81.6,
+        "dp": 5.594640292279746
+      }
+    },
+    "12": {
+      "passos": {
+        "media": 66.2,
+        "dp": 13.754999091239519
+      },
+      "colisoes": {
+        "media": 1.8,
+        "dp": 1.4832396974191326
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 31.4,
+        "dp": 12.759310326189265
+      },
+      "energia_final": {
+        "media": 79.8,
+        "dp": 14.446452851824908
+      }
+    },
+    "13": {
+      "passos": {
+        "media": 62.0,
+        "dp": 3.391164991562634
+      },
+      "colisoes": {
+        "media": 0.8,
+        "dp": 0.8366600265340756
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 28.2,
+        "dp": 3.898717737923586
+      },
+      "energia_final": {
+        "media": 76.8,
+        "dp": 9.628083921528727
+      }
+    },
+    "14": {
+      "passos": {
+        "media": 60.2,
+        "dp": 8.318653737234168
+      },
+      "colisoes": {
+        "media": 1.2,
+        "dp": 1.3038404810405297
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 26.0,
+        "dp": 7.280109889280518
+      },
+      "energia_final": {
+        "media": 87.4,
+        "dp": 5.128352561983234
+      }
+    },
+    "15": {
+      "passos": {
+        "media": 68.2,
+        "dp": 2.280350850198276
+      },
+      "colisoes": {
+        "media": 1.4,
+        "dp": 1.6733200530681511
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 33.8,
+        "dp": 3.3466401061363023
+      },
+      "energia_final": {
+        "media": 74.4,
+        "dp": 13.049904214207858
+      }
+    },
+    "16": {
+      "passos": {
+        "media": 71.4,
+        "dp": 5.412947441089743
+      },
+      "colisoes": {
+        "media": 0.6,
+        "dp": 0.5477225575051661
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 37.8,
+        "dp": 5.761944116355173
+      },
+      "energia_final": {
+        "media": 66.8,
+        "dp": 12.911235417263525
+      }
+    },
+    "17": {
+      "passos": {
+        "media": 70.2,
+        "dp": 9.038805230781334
+      },
+      "colisoes": {
+        "media": 1.4,
+        "dp": 1.140175425099138
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 35.8,
+        "dp": 8.19756061276768
+      },
+      "energia_final": {
+        "media": 80.8,
+        "dp": 5.06951674225463
+      }
+    },
+    "18": {
+      "passos": {
+        "media": 63.8,
+        "dp": 7.8230428862431785
+      },
+      "colisoes": {
+        "media": 1.4,
+        "dp": 0.8944271909999159
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 29.4,
+        "dp": 7.92464510246358
+      },
+      "energia_final": {
+        "media": 77.8,
+        "dp": 13.989281611290838
+      }
+    },
+    "19": {
+      "passos": {
+        "media": 65.4,
+        "dp": 6.4265076052238514
+      },
+      "colisoes": {
+        "media": 1.2,
+        "dp": 1.3038404810405297
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 31.2,
+        "dp": 7.155417527999327
+      },
+      "energia_final": {
+        "media": 75.8,
+        "dp": 14.686728703152381
+      }
+    },
+    "20": {
+      "passos": {
+        "media": 62.4,
+        "dp": 7.26636084983398
+      },
+      "colisoes": {
+        "media": 1.2,
+        "dp": 1.0954451150103321
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 28.2,
+        "dp": 7.5630681604756145
+      },
+      "energia_final": {
+        "media": 80.4,
+        "dp": 15.852444606432158
+      }
+    },
+    "21": {
+      "passos": {
+        "media": 61.8,
+        "dp": 9.731392500562292
+      },
+      "colisoes": {
+        "media": 0.8,
+        "dp": 0.8366600265340756
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 28.0,
+        "dp": 9.273618495495704
+      },
+      "energia_final": {
+        "media": 86.6,
+        "dp": 9.235799911215054
+      }
+    },
+    "22": {
+      "passos": {
+        "media": 62.8,
+        "dp": 4.969909455915671
+      },
+      "colisoes": {
+        "media": 1.4,
+        "dp": 1.140175425099138
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 28.4,
+        "dp": 4.774934554525329
+      },
+      "energia_final": {
+        "media": 73.8,
+        "dp": 7.328028384224504
+      }
+    },
+    "23": {
+      "passos": {
+        "media": 62.0,
+        "dp": 6.284902544988268
+      },
+      "colisoes": {
+        "media": 1.0,
+        "dp": 1.0
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 28.0,
+        "dp": 6.6332495807108
+      },
+      "energia_final": {
+        "media": 82.2,
+        "dp": 9.909591313469996
+      }
+    },
+    "24": {
+      "passos": {
+        "media": 62.6,
+        "dp": 7.602631123499285
+      },
+      "colisoes": {
+        "media": 1.0,
+        "dp": 1.0
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 28.6,
+        "dp": 8.049844718999243
+      },
+      "energia_final": {
+        "media": 76.8,
+        "dp": 17.626684316683043
+      }
+    },
+    "25": {
+      "passos": {
+        "media": 68.6,
+        "dp": 8.324662155306966
+      },
+      "colisoes": {
+        "media": 1.0,
+        "dp": 1.224744871391589
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 34.6,
+        "dp": 8.648699324175862
+      },
+      "energia_final": {
+        "media": 77.0,
+        "dp": 6.4031242374328485
+      }
+    },
+    "26": {
+      "passos": {
+        "media": 64.2,
+        "dp": 5.585696017507576
+      },
+      "colisoes": {
+        "media": 0.2,
+        "dp": 0.4472135954999579
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 31.0,
+        "dp": 5.477225575051661
+      },
+      "energia_final": {
+        "media": 77.0,
+        "dp": 14.089002803605371
+      }
+    },
+    "27": {
+      "passos": {
+        "media": 63.0,
+        "dp": 4.183300132670378
+      },
+      "colisoes": {
+        "media": 1.2,
+        "dp": 0.4472135954999579
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 28.8,
+        "dp": 4.266145801540309
+      },
+      "energia_final": {
+        "media": 80.0,
+        "dp": 5.049752469181039
+      }
+    },
+    "28": {
+      "passos": {
+        "media": 63.6,
+        "dp": 4.159326868617084
+      },
+      "colisoes": {
+        "media": 1.6,
+        "dp": 1.140175425099138
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 29.0,
+        "dp": 4.242640687119285
+      },
+      "energia_final": {
+        "media": 77.2,
+        "dp": 7.155417527999327
+      }
+    },
+    "29": {
+      "passos": {
+        "media": 60.4,
+        "dp": 6.348228099241552
+      },
+      "colisoes": {
+        "media": 0.6,
+        "dp": 0.5477225575051661
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 26.8,
+        "dp": 6.723094525588644
+      },
+      "energia_final": {
+        "media": 81.6,
+        "dp": 8.677557259966655
+      }
+    },
+    "30": {
+      "passos": {
+        "media": 62.8,
+        "dp": 9.17605579756357
+      },
+      "colisoes": {
+        "media": 2.0,
+        "dp": 1.0
+      },
+      "cobertura": {
+        "media": 100.0,
+        "dp": 0.0
+      },
+      "pedras": {
+        "media": 5.0,
+        "dp": 0.0
+      },
+      "revisitas": {
+        "media": 27.8,
+        "dp": 9.549869109050658
+      },
+      "energia_final": {
+        "media": 73.8,
+        "dp": 6.418722614352485
+      }
+    }
+  },
+  "sucessos_treino": 150,
+  "total_treino": 150,
+  "total_transferencia": 10
+}
